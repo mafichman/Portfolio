@@ -5,38 +5,67 @@
 ### Nighttime Arts and Culture Planning and Community Engagement 
 
 [Global Nighttime Recovery Plan](http://nighttime.org/recoveryplan)
+<br>
+Text text text<br>
 <img src="images/gnrp.png?raw=true"/>
 <br>
 Text text text<br>
 ---
 [Creative Footprint NYC / Tokyo / Berlin](https://www.creative-footprint.org/)
+<br>
+Text text text<br>
 <img src="images/content_map.png?raw=true"/>
 <br>
 Text text text<br>
 ---
-[24HrPHL](/sample_page)
-<img src="images/playbook_splash.jpg?raw=true"/>
+[24HrPHL](http://24HrPHL.org/)
 <br>
 Text text text<br>
+<img src="images/playbook_splash.jpg?raw=true"/>
+<br>
+
 ---
 
 ### Urban Planning Analytics and Research 
 
 [Center for Safe Mobility Eye Tracking](/sample_page)
+<br>
+Text text text<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/><br>
 Text text text<br>
 ---
 [Reimagining The Civic Commons](/pdf/sample_presentation.pdf)
+<br>
+Text text text<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/><br>
 Text text text<br>
 ---
 [An Evaluation of Pittsburgh's Dynamically Priced Curb Parking Pilot (2016)](https://www.researchgate.net/publication/309231344_An_Evaluation_of_Pittsburgh%27s_Dynamically-Priced_Curb_Parking_Pilot)
+<br>
+Text text text<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/><br>
 Text text text<br>
 ---
 [Civic Infrastructure - Economic Inclusion (2018)](http://example.com/)
+<br>
+Text text text<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/><br>
 Text text text<br>
+---
+[Civic Infrastructure - Economic Inclusion (2018)](http://example.com/)
+<br>
+Text text text<br>
+<img src="images/dummy_thumbnail.jpg?raw=true"/><br>
+Text text text<br>
+---
+
+### Teaching
+
+MUSA 801 - Graduate Practicum
+CPLN 675 - Land Use and Environmental Modeling
+MUSA 508 Lab - Public Policy Analytics
+PennPraxis Design Fellows Program
+
 ---
 
 ### Press
