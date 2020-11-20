@@ -6,23 +6,40 @@
 
 [Global Nighttime Recovery Plan](http://nighttime.org/recoveryplan)
 <br>
-Text text text<br>
+"The Nightlife Rescue Plan That Could Save Your City’s Scene" - City Lab<br>
+<br>
+I'm an editor of The Global Nighttime Recovery Plan - a collaborative, practical guide for cities that are trying to determine the best way to design and execute a safe and feasible strategy to reopen and reactivate their creative and night-time economies.<br>
+<br>
+The guide is a joint effort that involves activists, practitioners, academics and industry representatives from all over the world, and is meant to be an interactive platform to share frameworks, tools, and practices among cities during these unprecedented times. For this reason, the guide is meant to be both an accurate but flexible document that can be updated as the circumstances change. <br>
+<br>
+<br>
+Partners on this project include Vibe Lab, PennPraxis, Fraunhofer Institute and the Alexander von Humboldt Foundation.
+<br>
 <img src="images/gnrp.png?raw=true"/>
 <br>
-Text text text<br>
+<br>
 ---
 <br><br>
-[Creative Footprint NYC / Tokyo / Berlin](https://www.creative-footprint.org/)
+[Creative Footprint - NYC / Tokyo / Berlin](https://www.creative-footprint.org/)
 <br>
-Text text text<br>
+<br>Client - Vibe Lab
+<br>
+The Creative Footprint (CFP) is a sociocultural initiative that maps and indexes creative space to measure the impact of nightlife and cultural activity on cities.<br>
+<br>
+Our methodology goes beyond economic impact, prioritizing original content, interdisciplinary connections, and cross-functional spaces for thriving local scenes.<br>
+<br>
+Since its founding in 2017, CFP has been conducting community-based and collaborative venue mapping in Berlin, New York and Tokyo, including music spaces, clubs, galleries, and informal creative spaces. <br>
+<br>
+The goal of CFP is to show the value of spaces that foster talent, strengthen communities and make our cities unique.<br>
+<br>
 <img src="images/content_map.png?raw=true"/>
 <br>
-Text text text<br>
 ---
 <br><br>
 [24HrPHL](http://24HrPHL.org/)
 <br>
-Text text text<br>
+<br>
+24HrPHL is a resource and community engagement group in Philadelphia's nightlife arts and culture community. I founded this group in 2017, and it has created programs and resources including sexual harrassment identification and de-escalation training for venues, survey research and policy engagement, venue opening guides, harm reduction toolkits, and more.<br><br>
 <img src="images/playbook_splash.jpg?raw=true"/>
 <br>
 
