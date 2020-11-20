@@ -54,9 +54,8 @@ Text text text<br>
 ---
 [Civic Infrastructure - Economic Inclusion (2018)](http://example.com/)
 <br>
-Text text text<br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/><br>
-Text text text<br>
+White paper on economic inclusion strategies in public capital investment programs. Written as part of a multi-year research project with PennPraxis funded by The William Penn Foundation.<br>
+<img src="images/civic_infrastructure.jpg?raw=true"/><br>
 ---
 
 ### Teaching
