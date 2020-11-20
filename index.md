@@ -10,14 +10,16 @@ Text text text<br>
 <img src="images/gnrp.png?raw=true"/>
 <br>
 Text text text<br>
----<br>
+---
+<br><br>
 [Creative Footprint NYC / Tokyo / Berlin](https://www.creative-footprint.org/)
 <br>
 Text text text<br>
 <img src="images/content_map.png?raw=true"/>
 <br>
 Text text text<br>
----<br>
+---
+<br><br>
 [24HrPHL](http://24HrPHL.org/)
 <br>
 Text text text<br>
@@ -33,29 +35,41 @@ Text text text<br>
 Text text text<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/><br>
 Text text text<br>
----<br>
+---
+<br><br>
 [Reimagining The Civic Commons](/pdf/sample_presentation.pdf)
 <br>
 Text text text<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/><br>
 Text text text<br>
----<br>
+---
+<br><br>
 [An Evaluation of Pittsburgh's Dynamically Priced Curb Parking Pilot (2016)](https://www.researchgate.net/publication/309231344_An_Evaluation_of_Pittsburgh%27s_Dynamically-Priced_Curb_Parking_Pilot)
 <br>
 Text text text<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/><br>
 Text text text<br>
----<br>
-[Civic Infrastructure - Economic Inclusion (2018)](http://example.com/)
+---
+<br><br>
+[Open Streets Program Evaluation (2018)](http://example.com/)
 <br>
 Text text text<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/><br>
 Text text text<br>
----<br>
+---
+<br><br>
 [Civic Infrastructure - Economic Inclusion (2018)](http://example.com/)
 <br>
 White paper on economic inclusion strategies in public capital investment programs. Written as part of a multi-year research project with PennPraxis funded by The William Penn Foundation.<br>
 <img src="images/civic_infrastructure.jpg?raw=true"/><br>
+---
+<br><br>
+[OvalPHL / The Oval Program Evaluation (2018-19)](http://example.com/)
+<br>
+Text text text<br>
+<img src="images/dummy_thumbnail.jpg?raw=true"/><br>
+Text text text<br>
+---
 ---
 
 ### Teaching
