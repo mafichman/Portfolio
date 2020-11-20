@@ -2,7 +2,7 @@
 
 ---
 
-## Nighttime Arts and Culture Planning and Community Engagement 
+## Nighttime Arts and Culture 
 
 [Global Nighttime Recovery Plan](http://nighttime.org/recoveryplan)
 <br>
@@ -120,7 +120,7 @@ I have taught several classes over the years at University of Pennsylvania's Wei
 
 ---
 
-### Press
+## Press
 
 - Bloomberg City Lab (2020) <br>[The Nightlife Rescue Plan That Could Save Your City’s Scene](https://www.bloomberg.com/news/articles/2020-08-04/can-urban-nightlife-districts-survive-a-pandemic)
 - The New York Times (2018) <br>[New York Today: The Nightlife Mayor’s Citywide Tour](https://www.nytimes.com/2018/10/01/nyregion/new-york-today-the-nightlife-mayors-citywide-tour.html)
@@ -133,7 +133,9 @@ I have taught several classes over the years at University of Pennsylvania's Wei
 
 ---
 
+## Awards and Honors
 
-
+- 880 Cities Emerging City Champions Fellow
+- Knight Cities Challenge Finalist
 
 ---
