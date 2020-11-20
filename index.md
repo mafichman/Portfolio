@@ -1,8 +1,8 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Nighttime Arts and Culture Planning and Community Engagement 
+## Nighttime Arts and Culture Planning and Community Engagement 
 
 [Global Nighttime Recovery Plan](http://nighttime.org/recoveryplan)
 <br>
@@ -12,9 +12,8 @@ I'm an editor of The Global Nighttime Recovery Plan - a collaborative, practical
 <br>
 The guide is a joint effort that involves activists, practitioners, academics and industry representatives from all over the world, and is meant to be an interactive platform to share frameworks, tools, and practices among cities during these unprecedented times. For this reason, the guide is meant to be both an accurate but flexible document that can be updated as the circumstances change. <br>
 <br>
-<br>
 Partners on this project include Vibe Lab, PennPraxis, Fraunhofer Institute and the Alexander von Humboldt Foundation.
-<br>
+<br><br>
 <img src="images/gnrp.png?raw=true"/>
 <br>
 <br>
@@ -39,33 +38,54 @@ The goal of CFP is to show the value of spaces that foster talent, strengthen co
 [24HrPHL](http://24HrPHL.org/)
 <br>
 <br>
-24HrPHL is a resource and community engagement group in Philadelphia's nightlife arts and culture community. I founded this group in 2017, and it has created programs and resources including sexual harrassment identification and de-escalation training for venues, survey research and policy engagement, venue opening guides, harm reduction toolkits, and more.<br><br>
+24HrPHL is a resource and community engagement group in Philadelphia's nightlife arts and culture community. I founded this group in 2017, and it has created programs and resources including sexual harrassment identification and de-escalation training for venues, survey research and policy engagement, venue opening guides, harm reduction toolkits, directories of COVID-related resources, and more.<br><br>
 <img src="images/playbook_splash.jpg?raw=true"/>
 <br>
 
 ---
 
-### Urban Planning Analytics and Research 
+## Urban Planning - Data Analytics 
 
 [Center for Safe Mobility Eye Tracking](/sample_page)
 <br>
 Text text text<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/><br>
-Text text text<br>
+<br>
 ---
+<br><br>
+[Falk Lab - Geoscanning Research Group](http://example.com/)
+<br>
+Text text text<br>
+<img src="images/dummy_thumbnail.jpg?raw=true"/><br>
+<br>
+---
+
+## Urban Planning - Program Evaluation 
+
+### Parks and Open Space
+
 <br><br>
 [Reimagining The Civic Commons](/pdf/sample_presentation.pdf)
 <br>
 Text text text<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/><br>
-Text text text<br>
+<br>
 ---
+<br><br>
+[OvalPHL / The Oval Program Evaluation (2018-19)](http://example.com/)
+<br>
+Text text text<br>
+<img src="images/dummy_thumbnail.jpg?raw=true"/><br>
+<br>
+---
+### Transportation
+
 <br><br>
 [An Evaluation of Pittsburgh's Dynamically Priced Curb Parking Pilot (2016)](https://www.researchgate.net/publication/309231344_An_Evaluation_of_Pittsburgh%27s_Dynamically-Priced_Curb_Parking_Pilot)
 <br>
 Text text text<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/><br>
-Text text text<br>
+<br>
 ---
 <br><br>
 [Open Streets Program Evaluation (2018)](http://example.com/)
@@ -75,29 +95,32 @@ Text text text<br>
 Text text text<br>
 ---
 <br><br>
+[Glassboro NJ Growth Management Plan](http://example.com/)
+<br>
+Text text text<br>
+<img src="images/dummy_thumbnail.jpg?raw=true"/><br>
+<br>
+---
+
+## Policy Research 
+
 [Civic Infrastructure - Economic Inclusion (2018)](http://example.com/)
 <br>
 White paper on economic inclusion strategies in public capital investment programs. Written as part of a multi-year research project with PennPraxis funded by The William Penn Foundation.<br>
 <img src="images/civic_infrastructure.jpg?raw=true"/><br>
----
-<br><br>
-[OvalPHL / The Oval Program Evaluation (2018-19)](http://example.com/)
 <br>
-Text text text<br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/><br>
-Text text text<br>
 ---
 ---
 
-### Teaching
+## Teaching
 
-I have taught
+I have taught several classes over the years at University of Pennsylvania's Weitzman School of Design, including - <br><br>
 
-MUSA 801 - Graduate Practicum<br>
-CPLN 675 - Land Use and Environmental Modeling<br>
-MUSA 508 Lab - Public Policy Analytics<br>
-CPLN 501 Lab - Quantitative Planning Analysis Methods<br>
-PennPraxis Design Fellows Program<br>
+- MUSA 801 - Graduate Practicum<br>
+- CPLN 675 - Land Use and Environmental Modeling<br>
+- MUSA 508 Lab - Public Policy Analytics<br>
+- CPLN 501 Lab - Quantitative Planning Analysis Methods<br>
+- PennPraxis Design Fellows Program<br>
 
 ---
 
