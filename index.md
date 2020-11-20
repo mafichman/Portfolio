@@ -2,27 +2,49 @@
 
 ---
 
-### Category Name 1 
+### Nighttime Arts and Culture Planning and Community Engagement 
 
-[Project 1 Title](/sample_page)
+[Creative Footprint Tokyo](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[24HrPHL Venue Starter Playbook](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Global Nighttime Recovery Plan](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[Creative Footprint NYC](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Urban Planning Analytics and Research 
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
+[Center for Safe Mobility Eye Tracking](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Reimagining The Civic Commons](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[An Evaluation of Pittsburgh's Dynamically Priced Curb PArking Pilot (2016)](https://www.researchgate.net/publication/309231344_An_Evaluation_of_Pittsburgh%27s_Dynamically-Priced_Curb_Parking_Pilot)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Civic Infrastructure - Economic Inclusion (2018)](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+### Press
+
+- [Bloomberg City Lab](http://example.com/)
+- [PennToday](http://example.com/)
+- [Philadelphia Inquirer (Op-Ed)](http://example.com/)
+- [The Paper (Chinese)](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
 ---
@@ -31,5 +53,3 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
