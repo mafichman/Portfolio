@@ -25,11 +25,7 @@ Partners on this project include Vibe Lab, PennPraxis, Fraunhofer Institute and 
 <br>
 The Creative Footprint (CFP) is a sociocultural initiative that maps and indexes creative space to measure the impact of nightlife and cultural activity on cities.<br>
 <br>
-Our methodology goes beyond economic impact, prioritizing original content, interdisciplinary connections, and cross-functional spaces for thriving local scenes.<br>
-<br>
-Since its founding in 2017, CFP has been conducting community-based and collaborative venue mapping in Berlin, New York and Tokyo, including music spaces, clubs, galleries, and informal creative spaces. <br>
-<br>
-The goal of CFP is to show the value of spaces that foster talent, strengthen communities and make our cities unique.<br>
+I developed a geo-spatial methodology to get deep insights about how creative spaces are related to economic and demographic indicators and how they are affected by land use policies and transportation networks.<br>
 <br>
 <img src="images/content_map.png?raw=true"/>
 <br>
