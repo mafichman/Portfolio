@@ -112,11 +112,11 @@ White paper on economic inclusion strategies in public capital investment progra
 
 I have taught several classes over the years at University of Pennsylvania's Weitzman School of Design, including - <br><br>
 
-- MUSA 801 - Graduate Practicum<br>
+- [MUSA 801 - Graduate Practicum](https://pennmusa.github.io/MUSA_801.io/)<br>
 - CPLN 675 - Land Use and Environmental Modeling<br>
 - MUSA 508 Lab - Public Policy Analytics<br>
 - CPLN 501 Lab - Quantitative Planning Analysis Methods<br>
-- PennPraxis Design Fellows Program<br>
+- [PennPraxis Design Fellows Program](https://www.design.upenn.edu/pennpraxis/design-fellows)<br>
 
 ---
 
@@ -137,5 +137,12 @@ I have taught several classes over the years at University of Pennsylvania's Wei
 
 - 880 Cities Emerging City Champions Fellow
 - Knight Cities Challenge Finalist
+
+---
+
+## Education
+
+- Masters of City and Regional Planning, University of Pennsylvania (2016)
+- BS, Biology, Haverford College (2005)
 
 ---
