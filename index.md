@@ -56,11 +56,9 @@ I provide geospatial data analysis, software development, and urban planning exp
 <br>
 ---
 
-## Urban Planning - Program Evaluation 
+## Urban Planning Program Evaluation 
 
 ### Parks and Open Space
-
-<br><br>
 [Reimagining The Civic Commons](/pdf/sample_presentation.pdf)
 <br>
 Text text text<br>
@@ -75,8 +73,6 @@ Text text text<br>
 <br>
 ---
 ### Transportation
-
-<br><br>
 [An Evaluation of Pittsburgh's Dynamically Priced Curb Parking Pilot (2016)](https://www.researchgate.net/publication/309231344_An_Evaluation_of_Pittsburgh%27s_Dynamically-Priced_Curb_Parking_Pilot)
 <br>
 Text text text<br>
@@ -90,15 +86,15 @@ Text text text<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/><br>
 Text text text<br>
 ---
-<br><br>
-[Glassboro NJ Growth Management Plan](http://example.com/)
+### Historic Preservation
+[Sacred Places, Civic Spaces (2018)](http://example.com/)
 <br>
 Text text text<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/><br>
-<br>
+Text text text<br>
 ---
 
-## Policy Research 
+## Planning and Policy Research 
 
 [Civic Infrastructure - Economic Inclusion (2018)](https://www.design.upenn.edu/pennpraxis/work/civic-infrastructure-research-and-summit)
 <br>
@@ -106,8 +102,13 @@ White paper on economic inclusion strategies in public capital investment progra
 <img src="images/civic_infrastructure.jpg?raw=true"/><br>
 <br>
 ---
+<br><br>
+[Glassboro NJ Growth Management Plan](http://example.com/)
+<br>
+Text text text<br>
+<img src="images/dummy_thumbnail.jpg?raw=true"/><br>
+<br>
 ---
-
 ## Teaching
 
 I have taught several classes over the years at University of Pennsylvania's Weitzman School of Design, including - <br><br>
