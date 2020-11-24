@@ -42,17 +42,17 @@ I developed a geo-spatial methodology to get deep insights about how creative sp
 
 ## Urban Planning - Data Analytics 
 
-[Center for Safe Mobility Eye Tracking](/sample_page)
+[Center for Safe Mobility Eye Tracking](http://www.safemobility.org/)
 <br>
-Text text text<br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/><br>
+I am the lead Data Scientist on the Center for Safe Mobility’s research team. The research group is deploying a wearable sensor technology called Tobii to understand how the built environment affects walkers, cyclists, and more. I've built custom software in R to analyze the sensor data—which measures dozens of bio-metric indicators in 10 millisecond increments—and relate user stress in response to the features of the built environment.<br>
+<img src="images/safe_mobility.jpg?raw=true"/><br>
 <br>
 ---
 <br><br>
 [Communication Neuroscience Lab - Geoscanning Research Group](https://cn.asc.upenn.edu/)
 <br>
 I provide geospatial data analysis, software development, and urban planning expertise to a research group examining the relationship between environmental risk factors, observed behavior, and brain activity. Using a wide variety of data sources, including tobacco retailer data, census information, GPS data and CT scans, this project integrates medical, behavioral and public health data using a geographic lens. <br>
-<img src="images/geoscaning.png?raw=true"/><br>
+<img src="images/geoscanning.png?raw=true"/><br>
 <br>
 ---
 
