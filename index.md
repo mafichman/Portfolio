@@ -49,10 +49,10 @@ Text text text<br>
 <br>
 ---
 <br><br>
-[Falk Lab - Geoscanning Research Group](http://example.com/)
+[Communication Neuroscience Lab - Geoscanning Research Group](https://cn.asc.upenn.edu/)
 <br>
-Text text text<br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/><br>
+I provide geospatial data analysis, software development, and urban planning expertise to a research group examining the relationship between environmental risk factors, observed behavior, and brain activity. Using a wide variety of data sources, including tobacco retailer data, census information, GPS data and CT scans, this project integrates medical, behavioral and public health data using a geographic lens. <br>
+<img src="images/geoscaning.png?raw=true"/><br>
 <br>
 ---
 
@@ -71,7 +71,7 @@ Text text text<br>
 [OvalPHL / The Oval Program Evaluation (2018-19)](http://example.com/)
 <br>
 Text text text<br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/><br>
+<img src="images/oval.jpg?raw=true"/><br>
 <br>
 ---
 ### Transportation
@@ -100,7 +100,7 @@ Text text text<br>
 
 ## Policy Research 
 
-[Civic Infrastructure - Economic Inclusion (2018)](http://example.com/)
+[Civic Infrastructure - Economic Inclusion (2018)](https://www.design.upenn.edu/pennpraxis/work/civic-infrastructure-research-and-summit)
 <br>
 White paper on economic inclusion strategies in public capital investment programs. Written as part of a multi-year research project with PennPraxis funded by The William Penn Foundation.<br>
 <img src="images/civic_infrastructure.jpg?raw=true"/><br>
@@ -135,8 +135,8 @@ I have taught several classes over the years at University of Pennsylvania's Wei
 
 ## Awards and Honors
 
-- 880 Cities Emerging City Champions Fellow
-- Knight Cities Challenge Finalist
+- 880 Cities Emerging City Champions Fellow (2017)
+- Knight Cities Challenge Finalist (2017)
 
 ---
 
@@ -144,5 +144,6 @@ I have taught several classes over the years at University of Pennsylvania's Wei
 
 - Masters of City and Regional Planning, University of Pennsylvania (2016)
 - BS, Biology, Haverford College (2005)
+- SES Certificate, Marine Biological Laboratory, Woods Hole, MA (2004)
 
 ---
