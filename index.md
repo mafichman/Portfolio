@@ -43,14 +43,14 @@ I developed a geo-spatial methodology to get deep insights about how creative sp
 ## Urban Planning - Data Analytics 
 
 [Center for Safe Mobility Eye Tracking](http://www.safemobility.org/)
-<br>
+<br><br>
 I am the lead Data Scientist on the Center for Safe Mobility’s research team. The research group is deploying a wearable sensor technology called Tobii to understand how the built environment affects walkers, cyclists, and more. I've built custom software in R to analyze the sensor data—which measures dozens of bio-metric indicators in 10 millisecond increments—and relate user stress in response to the features of the built environment.<br>
 <img src="images/safe_mobility.jpg?raw=true"/><br>
 <br>
 ---
 <br><br>
 [Communication Neuroscience Lab - Geoscanning Research Group](https://cn.asc.upenn.edu/)
-<br>
+<br><br>
 I provide geospatial data analysis, software development, and urban planning expertise to a research group examining the relationship between environmental risk factors, observed behavior, and brain activity. Using a wide variety of data sources, including tobacco retailer data, census information, GPS data and CT scans, this project integrates medical, behavioral and public health data using a geographic lens. <br>
 <img src="images/geoscanning.png?raw=true"/><br>
 <br>
@@ -59,16 +59,16 @@ I provide geospatial data analysis, software development, and urban planning exp
 ## Urban Planning Program Evaluation 
 
 ### Parks and Open Space
-[Reimagining The Civic Commons](/pdf/sample_presentation.pdf)
-<br>
+[Reimagining The Civic Commons (2016-17)](/pdf/sample_presentation.pdf)
+<br><br>
 Text text text<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/><br>
 <br>
 ---
 <br><br>
-[OvalPHL / The Oval Program Evaluation (2018-19)](http://example.com/)
-<br>
-Text text text<br>
+[OvalPHL / The Oval Program Evaluation (2017-18)](http://example.com/)
+<br><br>
+text text text<br>
 <img src="images/oval.jpg?raw=true"/><br>
 <br>
 ---
@@ -80,18 +80,17 @@ Text text text<br>
 <br>
 ---
 <br><br>
-[Open Streets Program Evaluation (2018)](http://example.com/)
+[Open Streets Program Evaluation (2016)](http://example.com/)
 <br>
-Text text text<br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/><br>
+Assisted in the design and implementation of an in person survey campaign to measure use and demographics associated with Philadelphia's first "Open Streets" event.<br>
+<img src="images/open_streets.png?raw=true"/><br>
 Text text text<br>
 ---
 ### Historic Preservation
-[Sacred Places, Civic Spaces (2018)](http://example.com/)
+[Sacred Places, Civic Spaces (2019)](https://www.design.upenn.edu/pennpraxis/work/infill-philadelphia-sacred-places-civic-spaces-program-evaluation)
+<br><br>
+Conducted a survey-based evaluation process for the Infill Philadelphia: Sacred Places / Civic Spaces project, a partnership between the Community Design Collaborative and Partners for Sacred Places, with North 4th LLC as project managers. The two-year project seeks to re-envision underutilized, purpose-built religious properties in Philadelphia as community hubs, adding the design and development community’s voice to a growing dialogue about the intersection between historic sacred places and communities.<br>
 <br>
-Text text text<br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/><br>
-Text text text<br>
 ---
 
 ## Planning and Policy Research 
