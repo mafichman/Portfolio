@@ -1,5 +1,7 @@
 # Portfolio
 
+
+BRIEF BIOGRAPHY<br><br>
 ---
 
 ## Nighttime Arts and Culture
@@ -90,7 +92,6 @@ Text text text<br>
 <br>
 Assisted in the design and implementation of an in person survey campaign to measure use and demographics associated with Philadelphia's first "Open Streets" event.<br>
 <img src="images/open_streets.png?raw=true"/><br>
-Text text text<br>
 ---
 ### Historic Preservation
 [Sacred Places, Civic Spaces (2019)](https://www.design.upenn.edu/pennpraxis/work/infill-philadelphia-sacred-places-civic-spaces-program-evaluation)
@@ -99,12 +100,12 @@ Conducted a survey-based evaluation process for the Infill Philadelphia: Sacred 
 <br>
 ---
 
-## Planning and Policy Research 
+## Urban Planning and Policy Research 
 <br>
 TEXT - overview of practice area
 <br><br>
 [Civic Infrastructure - Economic Inclusion (2018)](https://www.design.upenn.edu/pennpraxis/work/civic-infrastructure-research-and-summit)
-<br>
+<br><br>
 White paper on economic inclusion strategies in public capital investment programs. Written as part of a multi-year research project with PennPraxis funded by The William Penn Foundation.<br>
 <img src="images/civic_infrastructure.jpg?raw=true"/><br>
 <br>
@@ -138,6 +139,7 @@ I have taught several classes over the years at University of Pennsylvania's Wei
 - Crain's Detroit Business (2020)<br>[Detroit's Nightlife Coming Back At a Cautious Pace](https://www.crainsdetroit.com/entertainment/detroit-nightlife-coming-back-cautious-pace)
 - 880 Cities (2017)<br>[20 Emerging City Champions Chosen to Lead Innovative Urban Projects](https://www.880cities.org/20-emerging-city-champions-chosen-lead-innovative-urban-projects/)
 - PennToday (2020)<br>[Safely reengaging with nightlife and supporting the creative economy](https://penntoday.upenn.edu/news/safely-reengaging-nightlife-and-supporting-creative-economy)
+- Population Health Week (2020)<br>[Podcast: Michael Fichman, MCP Researcher and Lecturer at UPenn](https://soundcloud.com/hcnradio/meet-michael-fichman)
 
 ---
 
@@ -145,6 +147,18 @@ I have taught several classes over the years at University of Pennsylvania's Wei
 
 - 880 Cities Emerging City Champions Fellow (2017)
 - Knight Cities Challenge Finalist (2017)
+
+---
+
+## Publications
+
+- Mallach, Steif, Fichman and Kassel
+- Fichman thesis
+- LDI paper re: health policy
+- Geoscanning publication
+- Creative Footprint NY and Tokyo
+- Inquirer Op-Ed
+- GNRP chapters 1-3
 
 ---
 
