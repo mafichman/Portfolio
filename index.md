@@ -5,9 +5,6 @@ Read about some of my areas of practice:
 ---
 
 ## Nighttime Arts and Culture
-<br>
-TEXT - overview of practice area
-<br><br>
 [Global Nighttime Recovery Plan](http://nighttime.org/recoveryplan)
 <br>
 "The Nightlife Rescue Plan That Could Save Your City’s Scene" - City Lab<br>
@@ -43,7 +40,6 @@ I developed a geo-spatial methodology to get deep insights about how creative sp
 ---
 
 ## Urban Planning - Data Analytics and Software Design
-<br><br>
 [Center for Safe Mobility Eye Tracking](http://www.safemobility.org/)
 <br><br>
 I am the lead Data Scientist on the Center for Safe Mobility’s research team. The research group is deploying a wearable sensor technology called Tobii to understand how the built environment affects walkers, cyclists, and more. I've built custom software in R to analyze the sensor data—which measures dozens of bio-metric indicators in 10 millisecond increments—and relate user stress in response to the features of the built environment.<br>
@@ -59,7 +55,6 @@ I provide geospatial data analysis, software development, and urban planning exp
 ---
 
 ## Urban Planning Program Evaluation 
-<br><br>
 ### Parks and Open Space
 [Reimagining The Civic Commons (2016-17)](https://www.design.upenn.edu/pennpraxis/work/fairmount-park-conservancy-reimagining-civic-commons)
 <br><br>
@@ -96,7 +91,6 @@ Conducted a survey-based evaluation process for the Infill Philadelphia: Sacred 
 ---
 
 ## Urban Planning and Policy Research 
-<br><br>
 [Civic Infrastructure - Economic Inclusion (2018)](https://www.design.upenn.edu/pennpraxis/work/civic-infrastructure-research-and-summit)
 <br><br>
 White paper on economic inclusion strategies in public capital investment programs. Written as part of a multi-year research project with PennPraxis funded by The William Penn Foundation.<br>
