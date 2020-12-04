@@ -1,7 +1,7 @@
 # Portfolio
 
-
-BRIEF BIOGRAPHY<br><br>
+Read about some of my areas of practice:
+<br><br>
 ---
 
 ## Nighttime Arts and Culture
@@ -12,9 +12,7 @@ TEXT - overview of practice area
 <br>
 "The Nightlife Rescue Plan That Could Save Your City’s Scene" - City Lab<br>
 <br>
-I'm an editor of The Global Nighttime Recovery Plan - a collaborative, practical guide for cities that are trying to determine the best way to design and execute a safe and feasible strategy to reopen and reactivate their creative and night-time economies.<br>
-<br>
-The guide is a joint effort that involves activists, practitioners, academics and industry representatives from all over the world, and is meant to be an interactive platform to share frameworks, tools, and practices among cities during these unprecedented times. For this reason, the guide is meant to be both an accurate but flexible document that can be updated as the circumstances change. <br>
+I'm an editor of The Global Nighttime Recovery Plan - a collaborative, practical guide for cities that are trying to determine the best way to design and execute a safe and feasible strategy to reopen and reactivate their creative and night-time economies. The guide is a joint effort that involves activists, practitioners, academics and industry representatives from all over the world<br>
 <br>
 Partners on this project include Vibe Lab, PennPraxis, Fraunhofer Institute and the Alexander von Humboldt Foundation.
 <br><br>
@@ -38,15 +36,13 @@ I developed a geo-spatial methodology to get deep insights about how creative sp
 [24HrPHL](http://24HrPHL.org/)
 <br>
 <br>
-24HrPHL is a resource and community engagement group in Philadelphia's nightlife arts and culture community. I founded this group in 2017, and it has created programs and resources including sexual harrassment identification and de-escalation training for venues, survey research and policy engagement, venue opening guides, harm reduction toolkits, directories of COVID-related resources, and more.<br><br>
+24HrPHL is a resource and community engagement group in Philadelphia's nightlife arts and culture community. I was a founding member of this group in 2017. We have created programs and resources including sexual harrassment identification and de-escalation training for venues, survey research and policy engagement, venue opening guides, harm reduction toolkits, directories of COVID-related resources, and more.<br><br>
 <img src="images/playbook_splash.jpg?raw=true"/>
 <br>
 
 ---
 
 ## Urban Planning - Data Analytics and Software Design
-<br>
-TEXT - overview of practice area
 <br><br>
 [Center for Safe Mobility Eye Tracking](http://www.safemobility.org/)
 <br><br>
@@ -63,14 +59,15 @@ I provide geospatial data analysis, software development, and urban planning exp
 ---
 
 ## Urban Planning Program Evaluation 
-<br>
-TEXT - overview of practice area
 <br><br>
 ### Parks and Open Space
-[Reimagining The Civic Commons (2016-17)](/pdf/sample_presentation.pdf)
+[Reimagining The Civic Commons (2016-17)](https://www.design.upenn.edu/pennpraxis/work/fairmount-park-conservancy-reimagining-civic-commons)
 <br><br>
-Text text text<br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/><br>
+PennPraxis worked with the Fairmount Park Conservancy (FPC) on two projects in conjunction with the Philadelphia pilot of the Reimagining the Civic Commons initiative, funded by the Knight Foundation, William Penn Foundation, and JPB Foundation.  The initiative united partners from five key civic assets in Philadelphia—Bartram’s Mile, Discovery Center, The Viaduct Rail Park, Lovett Library and Park, and Centennial Commons—that were undergoing phased redesigns beginning in the summer of 2016.  The program brought the partners together to create a process by which each of these distinct sites could be made stronger when envisioned as a system, with programming and experiences shared across sites and engaged with adjacent neighborhoods. 
+
+As one of two projects associated with this initiative, PennPraxis assisted in the design and implementation of data collection and baseline monitoring to document the impacts of the initial phases of implementation. PennPraxis deployed a team to collect this information using site observation, intercept surveys, and user counts to create bases of data to measure future impacts.  A report was created for each of the four sites monitored, so that the information could be used by site managers for decision-making and communicating with the community.
+<br><br>
+<img src="images/bartrams.jpg?raw=true"/><br>
 <br>
 ---
 <br><br>
@@ -83,14 +80,14 @@ text text text<br>
 ### Transportation
 [An Evaluation of Pittsburgh's Dynamically Priced Curb Parking Pilot (2016)](https://www.researchgate.net/publication/309231344_An_Evaluation_of_Pittsburgh%27s_Dynamically-Priced_Curb_Parking_Pilot)
 <br>
-Text text text<br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/><br>
+An econometric analysis of one of the first dynamic, demand-based curb parking programs in the US. Uses custom occupancy estimations algorithms to create elasticity estimations and estimates price effects using regression discontinuity quasi-experimental models.<br>
+<img src="images/RD_Hypothesized_60.jpg?raw=true"/><br>
 <br>
 ---
 <br><br>
-[Open Streets Program Evaluation (2016)](http://example.com/)
+[Open Streets Program Evaluation (2016)](https://www.design.upenn.edu/sites/default/files/OpenStreets_2016Report_5-19-17.pdf)
 <br>
-Assisted in the design and implementation of an in person survey campaign to measure use and demographics associated with Philadelphia's first "Open Streets" event.<br>
+Assisted in the design and implementation of an in person survey campaign to measure use and demographics associated with Philadelphia's first "Open Streets" event. Client: Philly Free Streets<br>
 <img src="images/open_streets.png?raw=true"/><br>
 ---
 ### Historic Preservation
@@ -101,8 +98,6 @@ Conducted a survey-based evaluation process for the Infill Philadelphia: Sacred 
 ---
 
 ## Urban Planning and Policy Research 
-<br>
-TEXT - overview of practice area
 <br><br>
 [Civic Infrastructure - Economic Inclusion (2018)](https://www.design.upenn.edu/pennpraxis/work/civic-infrastructure-research-and-summit)
 <br><br>
@@ -113,9 +108,8 @@ White paper on economic inclusion strategies in public capital investment progra
 <br><br>
 [Glassboro NJ Growth Management Plan](http://example.com/)
 <br>
-Text text text<br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/><br>
 <br>
+Ongoing PennPraxis planning process to create a long-term strategy for growth for this rapidly changing University town.
 ---
 ## Teaching
 
@@ -140,13 +134,17 @@ I have taught several classes over the years at University of Pennsylvania's Wei
 - 880 Cities (2017)<br>[20 Emerging City Champions Chosen to Lead Innovative Urban Projects](https://www.880cities.org/20-emerging-city-champions-chosen-lead-innovative-urban-projects/)
 - PennToday (2020)<br>[Safely reengaging with nightlife and supporting the creative economy](https://penntoday.upenn.edu/news/safely-reengaging-nightlife-and-supporting-creative-economy)
 - Population Health Week (2020)<br>[Podcast: Michael Fichman, MCP Researcher and Lecturer at UPenn](https://soundcloud.com/hcnradio/meet-michael-fichman)
+- Como (Spain) (2020)<br>[El sector del ocio nocturno lanza una app a nivel mundial para “acceder a los locales de forma segura”](https://www.diariocomo.es/el-sector-del-ocio-nocturno-lanza-una-app-a-nivel-mundial-para-acceder-a-los-locales-de-forma-segura/)
+
 
 ---
 
 ## Awards and Honors
 
+- Member, Philadelphia City Council Arts and Culture Task Force
 - 880 Cities Emerging City Champions Fellow (2017)
 - Knight Cities Challenge Finalist (2017)
+- International Nightlife Association Golden Moon Award (with GNRP team) (2020)
 
 ---
 
