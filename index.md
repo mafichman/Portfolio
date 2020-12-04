@@ -63,17 +63,15 @@ I provide geospatial data analysis, software development, and urban planning exp
 ### Parks and Open Space
 [Reimagining The Civic Commons (2016-17)](https://www.design.upenn.edu/pennpraxis/work/fairmount-park-conservancy-reimagining-civic-commons)
 <br><br>
-PennPraxis worked with the Fairmount Park Conservancy (FPC) on two projects in conjunction with the Philadelphia pilot of the Reimagining the Civic Commons initiative, funded by the Knight Foundation, William Penn Foundation, and JPB Foundation.  The initiative united partners from five key civic assets in Philadelphia—Bartram’s Mile, Discovery Center, The Viaduct Rail Park, Lovett Library and Park, and Centennial Commons—that were undergoing phased redesigns beginning in the summer of 2016.  The program brought the partners together to create a process by which each of these distinct sites could be made stronger when envisioned as a system, with programming and experiences shared across sites and engaged with adjacent neighborhoods. 
-
-As one of two projects associated with this initiative, PennPraxis assisted in the design and implementation of data collection and baseline monitoring to document the impacts of the initial phases of implementation. PennPraxis deployed a team to collect this information using site observation, intercept surveys, and user counts to create bases of data to measure future impacts.  A report was created for each of the four sites monitored, so that the information could be used by site managers for decision-making and communicating with the community.
+PennPraxis worked with the Fairmount Park Conservancy (FPC) in conjunction with the Philadelphia pilot of the Reimagining the Civic Commons initiative, funded by the Knight Foundation, William Penn Foundation, and JPB Foundation.  The initiative united partners from five key civic assets in Philadelphia—Bartram’s Mile, Discovery Center, The Viaduct Rail Park, Lovett Library and Park, and Centennial Commons—that were undergoing phased redesigns beginning in the summer of 2016.  PennPraxis assisted in the design and implementation of data collection and baseline monitoring to document the impacts of the initial phases of implementation. PennPraxis deployed a team to collect this information using site observation, intercept surveys, and user counts to create bases of data to measure future impacts.
 <br><br>
 <img src="images/bartrams.jpg?raw=true"/><br>
 <br>
 ---
 <br><br>
-[OvalPHL / The Oval Program Evaluation (2017-18)](http://example.com/)
+[OvalPHL / The Oval Program Evaluation (2017-18)](https://www.design.upenn.edu/pennpraxis/work/ben-franklin-parkway-oval)
 <br><br>
-text text text<br>
+PennPraxis developed software for documenting site usage and mapping spatial data for a variety of sites and questions. In 2017 and 2018, PORT Architecture + Urbanism designed temporary pop-up public space installations at Eakins Oval, and hired PennPraxis to collect data on visitors for the Fairmount Park Conservancy. <br>
 <img src="images/oval.jpg?raw=true"/><br>
 <br>
 ---
@@ -152,7 +150,6 @@ I have taught several classes over the years at University of Pennsylvania's Wei
 
 - Mallach, Steif, Fichman and Kassel
 - Fichman thesis
-- LDI paper re: health policy
 - Geoscanning publication
 - Creative Footprint NY and Tokyo
 - Inquirer Op-Ed
