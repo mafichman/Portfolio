@@ -71,21 +71,21 @@ PennPraxis worked with the Fairmount Park Conservancy (FPC) in conjunction with 
 <br><br>
 [OvalPHL / The Oval Program Evaluation (2017-18)](https://www.design.upenn.edu/pennpraxis/work/ben-franklin-parkway-oval)
 <br><br>
-PennPraxis developed software for documenting site usage and mapping spatial data for a variety of sites and questions. In 2017 and 2018, PORT Architecture + Urbanism designed temporary pop-up public space installations at Eakins Oval, and hired PennPraxis to collect data on visitors for the Fairmount Park Conservancy. <br>
+PennPraxis developed software for documenting site usage and mapping spatial data for a variety of sites and questions. In 2017 and 2018, PORT Architecture + Urbanism designed temporary pop-up public space installations at Eakins Oval, and hired PennPraxis to collect data on visitors for the Fairmount Park Conservancy. <br><br>
 <img src="images/oval.jpg?raw=true"/><br>
 <br>
 ---
 ### Transportation
 [An Evaluation of Pittsburgh's Dynamically Priced Curb Parking Pilot (2016)](https://www.researchgate.net/publication/309231344_An_Evaluation_of_Pittsburgh%27s_Dynamically-Priced_Curb_Parking_Pilot)
-<br>
-An econometric analysis of one of the first dynamic, demand-based curb parking programs in the US. Uses custom occupancy estimations algorithms to create elasticity estimations and estimates price effects using regression discontinuity quasi-experimental models.<br>
+<br><br>
+An econometric analysis of one of the first dynamic, demand-based curb parking programs in the US. Uses custom occupancy estimations algorithms to create elasticity estimations and estimates price effects using regression discontinuity quasi-experimental models.<br><br>
 <img src="images/RD_Hypothesized_60.jpg?raw=true"/><br>
 <br>
 ---
 <br><br>
 [Open Streets Program Evaluation (2016)](https://www.design.upenn.edu/sites/default/files/OpenStreets_2016Report_5-19-17.pdf)
-<br>
-Assisted in the design and implementation of an in person survey campaign to measure use and demographics associated with Philadelphia's first "Open Streets" event. Client: Philly Free Streets<br>
+<br><br>
+Assisted in the design and implementation of an in person survey campaign to measure use and demographics associated with Philadelphia's first "Open Streets" event. Client: Philly Free Streets<br><br>
 <img src="images/open_streets.png?raw=true"/><br>
 ---
 ### Historic Preservation
