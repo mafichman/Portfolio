@@ -1,20 +1,29 @@
-I'm data-savvy city planner and educator working in a range of fields, including nighttime economies, arts and culture, smart cities, transportation, parks and open space, and more.
+<i>I'm data-savvy city planner and educator working in a range of fields, including nighttime economies, arts and culture, smart cities, transportation, parks and open space, and more. I spent over a decade in the music industry, and I work on bringing that perspective to my work with cities and communities as they try to effectively promote and govern their nighttime economy.</i>
 <br><br>
-Practice Areas
+<b>PRACTICE AREAS</b>
 <br><br>
-[ Nighttime Arts and Culture Planning and Advocacy](#nighttime)
-[ Urban Planning Data Analytics and Software Design ](#planningdata)
-
+- [ Nighttime Arts and Culture - Planning and Advocacy](#nighttime)<br>
+- [ Urban Planning Data Analytics and Software Design ](#planningdata)<br>
+- [ Urban Planning Program and Design Evaluation ](#programeval)<br>
+- [ Policy Research ](#policyresearch)<br>
+- [ Teaching ](#teaching)<br>
+<br>
+<b>OTHER INFO</b>
+<br><br>
+- [ Press ](#press)<br>
+- [ Awards and Honors ](#awards)<br>
+- [ Publications ](#publications)<br>
+- [ Education ](#education)<br>
 ---
 <a name="nighttime"></a>
-## Nighttime Arts and Culture Planning and Advocacy 
+## Nighttime Arts and Culture - Planning and Advocacy 
 [Global Nighttime Recovery Plan](http://nighttime.org/recoveryplan)
 <br>
 "The Nightlife Rescue Plan That Could Save Your City’s Scene" - City Lab<br>
 <br>
-I'm an editor of The Global Nighttime Recovery Plan - a collaborative, practical guide for cities that are trying to determine the best way to design and execute a safe and feasible strategy to reopen and reactivate their creative and night-time economies. The guide is a joint effort that involves activists, practitioners, academics and industry representatives from all over the world<br>
+I'm an editor and author of The Global Nighttime Recovery Plan - a collaborative, practical guide for cities that are trying to determine the best way to design and execute a safe and feasible strategy to reopen and reactivate their creative and night-time economies. The guide is a joint effort that involves activists, practitioners, academics and industry representatives from all over the world<br>
 <br>
-Partners on this project include Vibe Lab, PennPraxis, Fraunhofer Institute and the Alexander von Humboldt Foundation.
+Partners on this project include Vibe Lab, PennPraxis, Fraunhofer Institute and the Alexander von Humboldt Foundation. It has been translated into several languages, including Spanish, Japanese and German, and has been a catalyst for local and national planning initiatives in Asia, South America, Africa, Europe and North America.
 <br><br>
 <img src="images/gnrp.png?raw=true"/>
 <br>
@@ -56,7 +65,7 @@ I provide geospatial data analysis, software development, and urban planning exp
 <img src="images/geoscanning.png?raw=true"/><br>
 <br>
 ---
-
+<a name="programeval"></a>
 ## Urban Planning Program Evaluation 
 ### Parks and Open Space
 [Reimagining The Civic Commons (2016-17)](https://www.design.upenn.edu/pennpraxis/work/fairmount-park-conservancy-reimagining-civic-commons)
@@ -92,8 +101,8 @@ Assisted in the design and implementation of an in person survey campaign to mea
 Conducted a survey-based evaluation process for the Infill Philadelphia: Sacred Places / Civic Spaces project, a partnership between the Community Design Collaborative and Partners for Sacred Places, with North 4th LLC as project managers. The two-year project seeks to re-envision underutilized, purpose-built religious properties in Philadelphia as community hubs, adding the design and development community’s voice to a growing dialogue about the intersection between historic sacred places and communities.<br>
 <br>
 ---
-
-## Urban Planning and Policy Research 
+<a name="policyresearch"></a>
+## Policy Research 
 [Civic Infrastructure - Economic Inclusion (2018)](https://www.design.upenn.edu/pennpraxis/work/civic-infrastructure-research-and-summit)
 <br><br>
 White paper on economic inclusion strategies in public capital investment programs. Written as part of a multi-year research project with PennPraxis funded by The William Penn Foundation.<br>
@@ -106,6 +115,7 @@ White paper on economic inclusion strategies in public capital investment progra
 <br>
 Ongoing PennPraxis planning process to create a long-term strategy for growth for this rapidly changing University town.
 ---
+<a name="teaching"></a>
 ## Teaching
 
 I have taught several classes over the years at University of Pennsylvania's Weitzman School of Design, including - <br><br>
@@ -117,7 +127,7 @@ I have taught several classes over the years at University of Pennsylvania's Wei
 - [PennPraxis Design Fellows Program](https://www.design.upenn.edu/pennpraxis/design-fellows)<br>
 
 ---
-
+<a name="press"></a>
 ## Press
 
 - Bloomberg City Lab (2020) <br>[The Nightlife Rescue Plan That Could Save Your City’s Scene](https://www.bloomberg.com/news/articles/2020-08-04/can-urban-nightlife-districts-survive-a-pandemic)
@@ -133,7 +143,7 @@ I have taught several classes over the years at University of Pennsylvania's Wei
 
 
 ---
-
+<a name="awards"></a>
 ## Awards and Honors
 
 - Member, Philadelphia City Council Arts and Culture Task Force
@@ -142,7 +152,7 @@ I have taught several classes over the years at University of Pennsylvania's Wei
 - International Nightlife Association Golden Moon Award (with GNRP team) (2020)
 
 ---
-
+<a name="publications"></a>
 ## Publications
 
 ... Under construction....
@@ -156,7 +166,7 @@ I have taught several classes over the years at University of Pennsylvania's Wei
 - Civic Infrastructure
 
 ---
-
+<a name="education"></a>
 ## Education
 
 - Masters of City and Regional Planning, University of Pennsylvania (2016)
