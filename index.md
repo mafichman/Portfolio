@@ -1,10 +1,13 @@
-# Portfolio
-
-Read about some of my areas of practice:
+I'm data-savvy city planner and educator working in a range of fields, including nighttime economies, arts and culture, smart cities, transportation, parks and open space, and more.
 <br><br>
----
+Practice Areas
+<br><br>
+[ Nighttime Arts and Culture Planning and Advocacy](#nighttime)
+[ Urban Planning Data Analytics and Software Design ](#planningdata)
 
-## Nighttime Arts and Culture
+---
+<a name="nighttime"></a>
+## Nighttime Arts and Culture Planning and Advocacy 
 [Global Nighttime Recovery Plan](http://nighttime.org/recoveryplan)
 <br>
 "The Nightlife Rescue Plan That Could Save Your City’s Scene" - City Lab<br>
@@ -38,8 +41,8 @@ I developed a geo-spatial methodology to get deep insights about how creative sp
 <br>
 
 ---
-
-## Urban Planning - Data Analytics and Software Design
+<a name="planningdata"></a>
+## Urban Planning Data Analytics and Software Design
 [Center for Safe Mobility Eye Tracking](http://www.safemobility.org/)
 <br><br>
 I am the lead Data Scientist on the Center for Safe Mobility’s research team. The research group is deploying a wearable sensor technology called Tobii to understand how the built environment affects walkers, cyclists, and more. I've built custom software in R to analyze the sensor data—which measures dozens of bio-metric indicators in 10 millisecond increments—and relate user stress in response to the features of the built environment.<br>
@@ -142,12 +145,15 @@ I have taught several classes over the years at University of Pennsylvania's Wei
 
 ## Publications
 
+... Under construction....
+
 - Mallach, Steif, Fichman and Kassel
 - Fichman thesis
 - Geoscanning publication
 - Creative Footprint NY and Tokyo
 - Inquirer Op-Ed
-- GNRP chapters 1-3
+- GNRP chapters 1-5
+- Civic Infrastructure
 
 ---
 
