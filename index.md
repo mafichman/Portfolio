@@ -1,15 +1,14 @@
-<i>I'm data-savvy city planner and educator working in a range of fields, including nighttime economies, arts and culture, smart cities, transportation, parks and open space, and more. I spent over a decade in the music industry, and I work on bringing that perspective to my work with cities and communities as they try to effectively promote and govern their nighttime economy.</i>
+<i>I'm data-savvy city planner and educator working in a range of fields, including nighttime economies, arts and culture, smart cities, transportation, parks and open space, and more.</i>
 <br><br>
-<b>PRACTICE AREAS</b>
-<br><br>
-- [ Nighttime Arts and Culture - Planning and Advocacy](#nighttime)<br>
+---
+## Practice Areas
+- [ Nighttime Arts and Culture - Planning and Advocacy ](#nighttime)<br>
 - [ Urban Planning Data Analytics and Software Design ](#planningdata)<br>
 - [ Urban Planning Program and Design Evaluation ](#programeval)<br>
 - [ Policy Research ](#policyresearch)<br>
 - [ Teaching ](#teaching)<br>
-<br>
-<b>OTHER INFO</b>
-<br><br>
+---
+## About Me
 - [ Press ](#press)<br>
 - [ Awards and Honors ](#awards)<br>
 - [ Publications ](#publications)<br>
