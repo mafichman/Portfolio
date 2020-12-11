@@ -1,18 +1,22 @@
 <i>I'm data-savvy city planner and educator working in a range of fields, including nighttime economies, arts and culture, smart cities, transportation, parks and open space, and more.</i>
-<br><br>
 ---
+
 ## Practice Areas
 - [ Nighttime Arts and Culture - Planning and Advocacy ](#nighttime)<br>
 - [ Urban Planning Data Analytics and Software Design ](#planningdata)<br>
 - [ Urban Planning Program and Design Evaluation ](#programeval)<br>
 - [ Policy Research ](#policyresearch)<br>
 - [ Teaching ](#teaching)<br>
+
 ---
+
 ## About Me
 - [ Press ](#press)<br>
 - [ Awards and Honors ](#awards)<br>
 - [ Publications ](#publications)<br>
 - [ Education ](#education)<br>
+- [ Contact ](#contact)<br>
+
 ---
 <a name="nighttime"></a>
 ## Nighttime Arts and Culture - Planning and Advocacy 
@@ -173,3 +177,7 @@ I have taught several classes over the years at University of Pennsylvania's Wei
 - SES Certificate, Marine Biological Laboratory, Woods Hole, MA (2004)
 
 ---
+<a name="nighttime"></a>
+## Contact
+
+Get in touch with me at mfichman at gmail dot com or mfichman at design dot upenn dot edu.
