@@ -1,4 +1,4 @@
-<i>I'm data-savvy city planner and educator working in a range of fields, including nighttime economies, arts and culture, smart cities, transportation, parks and open space, and more.</i>
+<i>I'm a data-savvy city planner and educator working in a range of fields, including nighttime economies, arts and culture, smart cities, transportation, parks and open space, and more.</i>
 ---
 
 ## Practice Areas
