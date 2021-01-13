@@ -12,7 +12,7 @@
 
 ## About Me
 - [ Press ](#press)<br>
-- [ Awards and Honors ](#awards)<br>
+- [ Awards, Honors, Organizational Memberships ](#awards)<br>
 - [ Publications ](#publications)<br>
 - [ Education ](#education)<br>
 - [ Contact ](#contact)<br>
@@ -127,6 +127,7 @@ I have taught several classes over the years at University of Pennsylvania's Wei
 - CPLN 675 - Land Use and Environmental Modeling<br>
 - MUSA 508 Lab - Public Policy Analytics<br>
 - CPLN 501 Lab - Quantitative Planning Analysis Methods<br>
+- MUSA 795 - Spatial Analysis Summer "Bootcamp" Mini<br>
 - [PennPraxis Design Fellows Program](https://www.design.upenn.edu/pennpraxis/design-fellows)<br>
 
 ---
@@ -147,12 +148,14 @@ I have taught several classes over the years at University of Pennsylvania's Wei
 
 ---
 <a name="awards"></a>
-## Awards and Honors
+## Awards, Honors, Organizational Memberships
 
 - Member, Philadelphia City Council Arts and Culture Task Force
 - 880 Cities Emerging City Champions Fellow (2017)
 - Knight Cities Challenge Finalist (2017)
 - International Nightlife Association Golden Moon Award (with GNRP team) (2020)
+- Member, American Planning Association
+- Member, Society for American Baseball Research
 
 ---
 <a name="publications"></a>
@@ -162,11 +165,11 @@ I have taught several classes over the years at University of Pennsylvania's Wei
 
 - Mallach, Steif, Fichman and Kassel
 - Fichman thesis
-- Geoscanning publication
 - Creative Footprint NY and Tokyo
 - Inquirer Op-Ed
 - GNRP chapters 1-5
 - Civic Infrastructure
+- Mattan, B. D., Cooper, N., Scholz, C., Fichman, M., Paul, A., Andrews, M. E., Johnson, D., Carreras-Tartak, J., Cakar, M., Hao, S., Beard, E., Barnett, I., Strasser, A., Kirchner, T., & Falk, E. B. (April, 2021). Impact of mood on smoking through cravings in disadvantaged neighborhoods. Midwestern Psychological Association 2021, Chicago, IL.
 
 ---
 <a name="education"></a>
