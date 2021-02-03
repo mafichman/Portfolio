@@ -163,13 +163,15 @@ I have taught several classes over the years at University of Pennsylvania's Wei
 
 ... Under construction....
 
-- Mallach, Steif, Fichman and Kassel
-- Fichman thesis
+- Steif, K. Mallach, A. Fichman, M. Kassel, S. (2016). [Predicting gentrification using longitudinal census data](http://urbanspatialanalysis.com/portfolio/predicting-gentrification-using-longitudinal-census-data/). Urban Spatial. (White Paper)
+- Fichman, M. (2016). [An Evaluation of Pittsburgh's Dynamically‐Priced Curb Parking Pilot](https://www.researchgate.net/publication/309231344_An_Evaluation_of_Pittsburgh%27s_Dynamically-Priced_Curb_Parking_Pilot?channel=doi&linkId=5806370908ae0075d82c3cac&showFulltext=true). DOI: 10.13140/RG.2.2.16274.25289
+- Ryerson, M, Long,C,  Fichman, M, Davidson, J, Scudder, K, Kim, M, Katti, R, Harris, M.D.. (2020). Biometric evaluation methods for urban transportation safety. (Submitted for publication)
+- Mattan, B. D., Cooper, N., Scholz, C., Fichman, M., Paul, A., Andrews, M. E., Johnson, D., Carreras-Tartak, J., Cakar, M., Hao, S., Beard, E., Barnett, I., Strasser, A., Kirchner, T., & Falk, E. B. (April, 2021). Impact of mood on smoking through cravings in disadvantaged neighborhoods. Midwestern Psychological Association 2021, Chicago, IL.
 - Creative Footprint NY and Tokyo
 - Inquirer Op-Ed
 - GNRP chapters 1-5
 - Civic Infrastructure
-- Mattan, B. D., Cooper, N., Scholz, C., Fichman, M., Paul, A., Andrews, M. E., Johnson, D., Carreras-Tartak, J., Cakar, M., Hao, S., Beard, E., Barnett, I., Strasser, A., Kirchner, T., & Falk, E. B. (April, 2021). Impact of mood on smoking through cravings in disadvantaged neighborhoods. Midwestern Psychological Association 2021, Chicago, IL.
+- From Darwin to the Diamond: How Baseball and Billy Beane Arrived at Moneyball.
 
 ---
 <a name="education"></a>
