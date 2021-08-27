@@ -51,7 +51,14 @@ I developed a geo-spatial methodology to get deep insights about how creative sp
 24HrPHL is a resource and community engagement group in Philadelphia's nightlife arts and culture community. I was a founding member of this group in 2017. We have created programs and resources including sexual harrassment identification and de-escalation training for venues, survey research and policy engagement, venue opening guides, harm reduction toolkits, directories of COVID-related resources, and more.<br><br>
 <img src="images/playbook_splash.jpg?raw=true"/>
 <br>
-
+---
+<br><br>
+[Philadelphia City Council Arts and Culture Task Force](https://issuu.com/raheem621/docs/actf_final_findings)
+<br>
+<br>
+As a member of the ACTF (and chair of it's nightlife commitee) I drafted recommendations to City Council including calls for licensing reform for creative spaces, harm reduction subsidies for events industries, workers supports, and [the creation of a Nighttime Economy Office within the city’s Department of Commerce](http://24hrphl.org/wp-content/uploads/2021/06/The-Nighttime-Economy-Office-Full-Proposal.pdf). The Nighttime Economy Office was budgeted for FY2022 with the support of Council, the Mayor and the City Controller. Our task force was also responsible for the appropriation and disbursement of $1M of grants to independent artists in the City.<br><br>
+<img src="images/nte.png?raw=true"/>
+<br>
 ---
 <a name="planningdata"></a>
 ## Urban Planning Data Analytics and Software Design
