@@ -163,15 +163,25 @@ I have taught several classes over the years at University of Pennsylvania's Wei
 
 ... Under construction....
 
-- Steif, K. Mallach, A. Fichman, M. Kassel, S. (2016). [Predicting gentrification using longitudinal census data](http://urbanspatialanalysis.com/portfolio/predicting-gentrification-using-longitudinal-census-data/). Urban Spatial. (White Paper)
-- Fichman, M. (2016). [An Evaluation of Pittsburgh's Dynamically‐Priced Curb Parking Pilot](https://www.researchgate.net/publication/309231344_An_Evaluation_of_Pittsburgh%27s_Dynamically-Priced_Curb_Parking_Pilot?channel=doi&linkId=5806370908ae0075d82c3cac&showFulltext=true). DOI: 10.13140/RG.2.2.16274.25289
-- Ryerson, M, Long,C,  Fichman, M, Davidson, J, Scudder, K, Kim, M, Katti, R, Harris, M.D.. (2020). Biometric evaluation methods for urban transportation safety. (Submitted for publication)
-- Mattan, B. D., Cooper, N., Scholz, C., Fichman, M., Paul, A., Andrews, M. E., Johnson, D., Carreras-Tartak, J., Cakar, M., Hao, S., Beard, E., Barnett, I., Strasser, A., Kirchner, T., & Falk, E. B. (April, 2021). Impact of mood on smoking through cravings in disadvantaged neighborhoods. Midwestern Psychological Association 2021, Chicago, IL.
+Vibe Lab. (2020 - 2021) [Global Nighttime Recovery Plan, Chapters 1-7](https://www.nighttime.org/recoveryplan/). (White Paper Series)
+
+Ryerson, M. S., Long, C. S., Fichman, M., Davidson, J. H., Scudder, K. N., Kim, M., Katti, R., Poon, G., & Harris, M. D. (2021). Evaluating cyclist biometrics to develop urban transportation safety metrics. Accident; analysis and prevention, 159, 106287. https://doi.org/10.1016/j.aap.2021.106287
+
+Mattan, B. D., Cooper, N., Scholz, C., Fichman, M., Paul, A., Andrews, M. E., Johnson, D., Carreras-Tartak, J., Cakar, M., Hao, S., Beard, E., Barnett, I., Strasser, A., Kirchner, T., & Falk, E. B. (2021, April). Impact of mood on smoking through cravings in disadvantaged neighborhoods. Annual meeting of the Midwestern Psychological Association, 2021.
+
+Fichman, Michael. (2020, May 14) Opinion: Philadelphia should become a 24-hour city to survive the pandemic. Philadelphia Inquirer. Retrieved from https://www.inquirer.com/opinion/commentary/philadelphia-coronavirus-business-closures-night-hours-20200514.html
+
+Fichman, Michael A (2018). Civic Infrastructure 2018, Appendix: Economic Inclusion. DOI: 10.13140/RG.2.2.29450.98243. https://www.researchgate.net/publication/326998376_Civic_Infrastructure_2018_Appendix_Economic_Inclusion
+
+Steif, K. Mallach, A. Fichman, M. Kassel, S. (2016). [Predicting gentrification using longitudinal census data](http://urbanspatialanalysis.com/portfolio/predicting-gentrification-using-longitudinal-census-data/). Urban Spatial. (White Paper)
+
+Fichman, M. (2016). [An Evaluation of Pittsburgh's Dynamically‐Priced Curb Parking Pilot](https://www.researchgate.net/publication/309231344_An_Evaluation_of_Pittsburgh%27s_Dynamically-Priced_Curb_Parking_Pilot?channel=doi&linkId=5806370908ae0075d82c3cac&showFulltext=true). DOI: 10.13140/RG.2.2.16274.25289
+
+Fichman, M and M.A Fichman. (2012) From Darwin to the Diamond: How Baseball and Billy Beane Arrived at Moneyball. Available at SSRN 2112109.
+
 - Creative Footprint NY and Tokyo
-- Inquirer Op-Ed
-- GNRP chapters 1-5
+
 - Civic Infrastructure
-- From Darwin to the Diamond: How Baseball and Billy Beane Arrived at Moneyball.
 
 ---
 <a name="education"></a>
