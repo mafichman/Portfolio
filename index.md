@@ -145,6 +145,7 @@ I have taught several classes over the years at University of Pennsylvania's Wei
 - The New York Times (2018) <br>[New York Today: The Nightlife Mayor’s Citywide Tour](https://www.nytimes.com/2018/10/01/nyregion/new-york-today-the-nightlife-mayors-citywide-tour.html)
 - Bloomberg City Lab (2018)<br>[What Small, Diverse Music Venues Mean to New York City](https://www.bloomberg.com/news/articles/2018-10-18/what-can-new-york-do-to-help-small-music-venues)
 - Philadelphia Inquirer (2020)<br>[Op-Ed: Philadelphia Should Become a 24-Hour City to Survive the Pandemic](https://www.inquirer.com/opinion/commentary/philadelphia-coronavirus-business-closures-night-hours-20200514.html)
+- PennToday (2021)<br>[Reviving Philadelphia's Nighttime Economy](https://www.design.upenn.edu/news/post/reviving-philadelphias-nighttime-economy)
 - The Paper (China) (2020)<br>[Michael Fichman: The Global Nighttime Economy Needs A Recovery Plan](https://www.thepaper.cn/newsDetail_forward_9093106)
 - Crain's Detroit Business (2020)<br>[Detroit's Nightlife Coming Back At a Cautious Pace](https://www.crainsdetroit.com/entertainment/detroit-nightlife-coming-back-cautious-pace)
 - 880 Cities (2017)<br>[20 Emerging City Champions Chosen to Lead Innovative Urban Projects](https://www.880cities.org/20-emerging-city-champions-chosen-lead-innovative-urban-projects/)
