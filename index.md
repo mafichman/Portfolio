@@ -178,21 +178,21 @@ I have taught several classes over the years at University of Pennsylvania's Wei
 <a name="publications"></a>
 ## Publications
 
-Vibe Lab. (2020 - 2021) [Global Nighttime Recovery Plan, Chapters 1-7](https://www.nighttime.org/recoveryplan/). (White Paper Series)
-**I am lead editor of Chapters 3, 4 and lead author of Chapter 7**
+Vibe Lab. (2020 - 2021) [Global Nighttime Recovery Plan, Chapters 1-7](https://www.nighttime.org/recoveryplan/). (White Paper Series)<br>
+*I am lead editor of Chapters 3, 4 and lead author of Chapter 7*
 
 Ryerson, M. S., Long, C. S., Fichman, M., Davidson, J. H., Scudder, K. N., Kim, M., Katti, R., Poon, G., & Harris, M. D. (2021). Evaluating cyclist biometrics to develop urban transportation safety metrics. Accident; analysis and prevention, 159, 106287. https://doi.org/10.1016/j.aap.2021.106287
 
-Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ). (2021). [“Voices of Creatives: Scenarios for the New Normal in the Creative Industries of Sub-Saharan Africa and the Middle East after Covid-19.”](https://www.dropbox.com/s/bffio26u4juifbo/GIZ_Voices%20of%20Creatives_final_v10.pdf?dl=0)
-**I was director of research and an author on this institutional publication**
+Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ). (2021). [“Voices of Creatives: Scenarios for the New Normal in the Creative Industries of Sub-Saharan Africa and the Middle East after Covid-19.”](https://www.dropbox.com/s/bffio26u4juifbo/GIZ_Voices%20of%20Creatives_final_v10.pdf?dl=0)<br>
+*I was director of research and an author on this institutional publication*
 
 Mattan, B. D., Cooper, N., Scholz, C., Fichman, M., Paul, A., Andrews, M. E., Johnson, D., Carreras-Tartak, J., Cakar, M., Hao, S., Beard, E., Barnett, I., Strasser, A., Kirchner, T., & Falk, E. B. (2021, April). Impact of mood on smoking through cravings in disadvantaged neighborhoods. Annual meeting of the Midwestern Psychological Association, 2021.
 
 Fichman, Michael, Manning, R., Burton, E., and Park, K. (2021). [City of Philadelphia Nighttime Economy Office: Proposal 2021](http://24hrphl.org/wp-content/uploads/2021/06/The-Nighttime-Economy-Office-Full-Proposal.pdf).
 
-Fichman, Michael. (2020, May 14) Opinion: Philadelphia should become a 24-hour city to survive the pandemic. Philadelphia Inquirer. Retrieved from https://www.inquirer.com/opinion/commentary/philadelphia-coronavirus-business-closures-night-hours-20200514.html
+Fichman, Michael. (2020, May 14) [Opinion: Philadelphia should become a 24-hour city to survive the pandemic.](https://www.inquirer.com/opinion/commentary/philadelphia-coronavirus-business-closures-night-hours-20200514.html). Philadelphia Inquirer.
 
-Fichman, Michael A (2018). Civic Infrastructure 2018, Appendix: Economic Inclusion. DOI: 10.13140/RG.2.2.29450.98243. https://www.researchgate.net/publication/326998376_Civic_Infrastructure_2018_Appendix_Economic_Inclusion
+Fichman, Michael A (2018). [Civic Infrastructure 2018, Appendix: Economic Inclusion.](https://www.researchgate.net/publication/326998376_Civic_Infrastructure_2018_Appendix_Economic_Inclusion) DOI: 10.13140/RG.2.2.29450.98243.
 
 Steif, K. Mallach, A. Fichman, M. Kassel, S. (2016). [Predicting gentrification using longitudinal census data](http://urbanspatialanalysis.com/portfolio/predicting-gentrification-using-longitudinal-census-data/). Urban Spatial. (White Paper)
 
