@@ -120,6 +120,12 @@ Assisted in the design and implementation of an in person survey campaign to mea
 Conducted a survey-based evaluation process for the Infill Philadelphia: Sacred Places / Civic Spaces project, a partnership between the Community Design Collaborative and Partners for Sacred Places, with North 4th LLC as project managers. The two-year project seeks to re-envision underutilized, purpose-built religious properties in Philadelphia as community hubs, adding the design and development community’s voice to a growing dialogue about the intersection between historic sacred places and communities.<br>
 <br>
 ---
+### Housing and Health
+[Leonard Davis Institute & Housing Initiative at Penn (2019)](https://www.design.upenn.edu/pennpraxis/work/infill-philadelphia-sacred-places-civic-spaces-program-evaluation)
+<br><br>
+Created a spatial data analysis design and software suite for a research group examining the relationship between housing interventions and public health. Our work led to the publication of a paper, publicized in the [Wall Street Journal](https://www.wsj.com/articles/fighting-crime-with-home-renovations-11629986980) and [New York Times](https://www.nytimes.com/2021/10/08/opinion/gun-violence-biden-philadelphia.html), which shows a causal link between the disbursement of Philadelphia's Basic Systems Repair Program services (small home repair grants and case management) and a reduction in violent crime on blocks receiving interventions.<br>
+<br>
+---
 <a name="policyresearch"></a>
 ## Policy Research 
 [Civic Infrastructure - Economic Inclusion (2018)](https://www.design.upenn.edu/pennpraxis/work/civic-infrastructure-research-and-summit)
@@ -161,6 +167,9 @@ I have taught several classes over the years at University of Pennsylvania's Wei
 - PennToday (2020)<br>[Safely reengaging with nightlife and supporting the creative economy](https://penntoday.upenn.edu/news/safely-reengaging-nightlife-and-supporting-creative-economy)
 - Population Health Week (2020)<br>[Podcast: Michael Fichman, MCP Researcher and Lecturer at UPenn](https://soundcloud.com/hcnradio/meet-michael-fichman)
 - Como (Spain) (2020)<br>[El sector del ocio nocturno lanza una app a nivel mundial para “acceder a los locales de forma segura”](https://www.diariocomo.es/el-sector-del-ocio-nocturno-lanza-una-app-a-nivel-mundial-para-acceder-a-los-locales-de-forma-segura/)
+- Reeperbahn Festival Pop-and-Politics Workshop (2021) <br> [Video: The Future of Nightlife: Liberty, data, and technology.](https://www.youtube.com/watch?v=b7F_yYUhmyA)
+- Amplify Music Conference (2021)<br>[Video: Session 27 - Rethinking Nightlife](https://www.youtube.com/watch?v=T_qq97Lnpa4&t=478s)
+- Institute of Licensing (UK) R&R Conference (2021)<br>[Video: Action Planning for Global Nighttime Recovery](https://www.youtube.com/watch?v=JQJrS2GoLto)
 
 
 ---
@@ -192,7 +201,11 @@ Fichman, Michael, Manning, R., Burton, E., and Park, K. (2021). [City of Philade
 
 Fichman, Michael. (2020, May 14) [Opinion: Philadelphia should become a 24-hour city to survive the pandemic.](https://www.inquirer.com/opinion/commentary/philadelphia-coronavirus-business-closures-night-hours-20200514.html). Philadelphia Inquirer.
 
+VibeLab. (2020). [The Creative Footprint Project - Tokyo.](https://www.creative-footprint.org/tokyo/)
+
 Fichman, Michael A (2018). [Civic Infrastructure 2018, Appendix: Economic Inclusion.](https://www.researchgate.net/publication/326998376_Civic_Infrastructure_2018_Appendix_Economic_Inclusion) DOI: 10.13140/RG.2.2.29450.98243.
+
+VibeLab. (2018). [The Creative Footprint Project - New York City.](https://www.creative-footprint.org/new-york/)
 
 Steif, K. Mallach, A. Fichman, M. Kassel, S. (2016). [Predicting gentrification using longitudinal census data](http://urbanspatialanalysis.com/portfolio/predicting-gentrification-using-longitudinal-census-data/). Urban Spatial. (White Paper)
 
@@ -200,15 +213,13 @@ Fichman, M. (2016). [An Evaluation of Pittsburgh's Dynamically‐Priced Curb Par
 
 Fichman, M and M.A Fichman. (2012) From Darwin to the Diamond: How Baseball and Billy Beane Arrived at Moneyball. Available at SSRN 2112109.
 
-- Creative Footprint NY, Tokyo, Stockholm
-
 ---
 <a name="education"></a>
 ## Education
 
-- Masters of City and Regional Planning, University of Pennsylvania (2016)
+- Masters of City and Regional Planning, U. of Pennsylvania (2016)
 - BS, Biology, Haverford College (2005)
-- SES Certificate, Marine Biological Laboratory, Woods Hole, MA (2004)
+- SES Cert., Marine Biological Laboratory, Woods Hole, MA (2004)
 
 ---
 <a name="contact"></a>
