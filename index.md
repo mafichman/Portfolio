@@ -1,4 +1,4 @@
-<i>I'm a data-savvy city planner and educator working in a range of fields, including nighttime economies, arts and culture, smart cities, transportation, parks and open space, and more. I currently serve as the Acting Director of the University of Pennsylvania's Masters of Urban Spatial Analytics Program at the Weitzman School of Design, and I am a practicing planner and consultant with PennPraxis.</i>
+<i>I'm a data-savvy city planner and educator working in a range of fields, including nighttime economies, arts and culture, smart cities, transportation, parks and open space, and more.</i>
 ---
 
 ## Practice Areas
@@ -211,7 +211,7 @@ Fichman, M and M.A Fichman. (2012) From Darwin to the Diamond: How Baseball and 
 - SES Certificate, Marine Biological Laboratory, Woods Hole, MA (2004)
 
 ---
-<a name="nighttime"></a>
+<a name="contact"></a>
 ## Contact
 
 Get in touch with me at mfichman at gmail dot com or mfichman at design dot upenn dot edu.
