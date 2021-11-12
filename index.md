@@ -1,4 +1,4 @@
-<i>I'm a data-savvy city planner and educator working in a range of fields, including nighttime economies, arts and culture, smart cities, transportation, parks and open space, and more.</i>
+<i>I'm a data-savvy city planner and educator working in a range of fields, including nighttime economies, arts and culture, smart cities, transportation, parks and open space, and more. I currently serve as the Acting Director of the University of Pennsylvania's Masters of Urban Spatial Analytics Program at the Weitzman School of Design, and I am a practicing planner and consultant with PennPraxis.</i>
 ---
 
 ## Practice Areas
@@ -60,11 +60,20 @@ As a member of the ACTF (and chair of it's nightlife commitee) I drafted recomme
 <img src="images/nte.png?raw=true"/>
 <br>
 ---
+<br><br>
+[Voices of Creatives](https://www.dropbox.com/s/bffio26u4juifbo/GIZ_Voices%20of%20Creatives_final_v10.pdf?dl=0)
+<br>
+<br>
+I served as the director of research for Voices of Creatives, a project designed to understand the effects of COVID-19 on the creative industries in Iraq, Jordan, Lebanon, Senegal, South Africa and Kenya. This project, undertaken by the German Ministry for Economic Cooperation and Development (German: Deutsche Gesellschaft für Internationale Zusammenarbeit; "GIZ"), was conducted by VibeLab and PennPraxis and with support from the Goethe-Institut.<br><br>
+Our methodology combined focus groups, surveys, spatial maps and economic research - and created a set of priorities for GIZ and other agencies to promote business development and economic recovery in fashion, design, and music industries across and within each country.<br><br>
+<img src="images/voices_of_creatives.jpg?raw=true"/>
+<br>
+---
 <a name="planningdata"></a>
 ## Urban Planning Data Analytics and Software Design
 [Center for Safe Mobility Eye Tracking](http://www.safemobility.org/)
 <br><br>
-I am the lead Data Scientist on the Center for Safe Mobility’s research team. The research group is deploying a wearable sensor technology called Tobii to understand how the built environment affects walkers, cyclists, and more. I've built custom software in R to analyze the sensor data—which measures dozens of bio-metric indicators in 10 millisecond increments—and relate user stress in response to the features of the built environment.<br>
+I am the lead Data Scientist on the Center for Safe Mobility’s research team. The research group is deploying a wearable sensor technology called Tobii to understand how the built environment affects walkers, cyclists, and more. I've built custom software in R to analyze the sensor data—which measures dozens of bio-metric indicators in 10 millisecond increments—and relate user stress in response to the features of the built environment. Our work has been published and widely publicized as a new approach to building safer transportation infrastructure.<br>
 <img src="images/safe_mobility.jpg?raw=true"/><br>
 <br>
 ---
@@ -130,9 +139,9 @@ Ongoing PennPraxis planning process to create a long-term strategy for growth fo
 
 I have taught several classes over the years at University of Pennsylvania's Weitzman School of Design, including - <br><br>
 
-- [MUSA 801 - Graduate Practicum](https://pennmusa.github.io/MUSA_801.io/)<br>
+- [MUSA 801 - Smart Cities Graduate Practicum](https://pennmusa.github.io/MUSA_801.io/)<br>
 - CPLN 675 - Land Use and Environmental Modeling<br>
-- MUSA 508 Lab - Public Policy Analytics<br>
+- MUSA 508 - Public Policy Analytics<br>
 - CPLN 501 Lab - Quantitative Planning Analysis Methods<br>
 - MUSA 795 - Spatial Analysis Summer "Bootcamp" Mini<br>
 - [PennPraxis Design Fellows Program](https://www.design.upenn.edu/pennpraxis/design-fellows)<br>
@@ -158,7 +167,7 @@ I have taught several classes over the years at University of Pennsylvania's Wei
 <a name="awards"></a>
 ## Awards, Honors, Organizational Memberships
 
-- Member, Philadelphia City Council Arts and Culture Task Force
+- Member, Philadelphia City Council Arts and Culture Task Force (2020-Present)
 - 880 Cities Emerging City Champions Fellow (2017)
 - Knight Cities Challenge Finalist (2017)
 - International Nightlife Association Golden Moon Award (with GNRP team) (2020)
@@ -169,13 +178,17 @@ I have taught several classes over the years at University of Pennsylvania's Wei
 <a name="publications"></a>
 ## Publications
 
-... Under construction....
-
 Vibe Lab. (2020 - 2021) [Global Nighttime Recovery Plan, Chapters 1-7](https://www.nighttime.org/recoveryplan/). (White Paper Series)
+**I am lead editor of Chapters 3, 4 and lead author of Chapter 7**
 
 Ryerson, M. S., Long, C. S., Fichman, M., Davidson, J. H., Scudder, K. N., Kim, M., Katti, R., Poon, G., & Harris, M. D. (2021). Evaluating cyclist biometrics to develop urban transportation safety metrics. Accident; analysis and prevention, 159, 106287. https://doi.org/10.1016/j.aap.2021.106287
 
+Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ). (2021). [“Voices of Creatives: Scenarios for the New Normal in the Creative Industries of Sub-Saharan Africa and the Middle East after Covid-19.”](https://www.dropbox.com/s/bffio26u4juifbo/GIZ_Voices%20of%20Creatives_final_v10.pdf?dl=0)
+**I was director of research and an author on this institutional publication**
+
 Mattan, B. D., Cooper, N., Scholz, C., Fichman, M., Paul, A., Andrews, M. E., Johnson, D., Carreras-Tartak, J., Cakar, M., Hao, S., Beard, E., Barnett, I., Strasser, A., Kirchner, T., & Falk, E. B. (2021, April). Impact of mood on smoking through cravings in disadvantaged neighborhoods. Annual meeting of the Midwestern Psychological Association, 2021.
+
+Fichman, Michael, Manning, R., Burton, E., and Park, K. (2021). [City of Philadelphia Nighttime Economy Office: Proposal 2021](http://24hrphl.org/wp-content/uploads/2021/06/The-Nighttime-Economy-Office-Full-Proposal.pdf).
 
 Fichman, Michael. (2020, May 14) Opinion: Philadelphia should become a 24-hour city to survive the pandemic. Philadelphia Inquirer. Retrieved from https://www.inquirer.com/opinion/commentary/philadelphia-coronavirus-business-closures-night-hours-20200514.html
 
@@ -187,9 +200,7 @@ Fichman, M. (2016). [An Evaluation of Pittsburgh's Dynamically‐Priced Curb Par
 
 Fichman, M and M.A Fichman. (2012) From Darwin to the Diamond: How Baseball and Billy Beane Arrived at Moneyball. Available at SSRN 2112109.
 
-- Creative Footprint NY and Tokyo
-
-- Civic Infrastructure
+- Creative Footprint NY, Tokyo, Stockholm
 
 ---
 <a name="education"></a>
