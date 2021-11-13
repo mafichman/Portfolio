@@ -120,7 +120,7 @@ Assisted in the design and implementation of an in person survey campaign to mea
 Conducted a survey-based evaluation process for the Infill Philadelphia: Sacred Places / Civic Spaces project, a partnership between the Community Design Collaborative and Partners for Sacred Places, with North 4th LLC as project managers. The two-year project seeks to re-envision underutilized, purpose-built religious properties in Philadelphia as community hubs, adding the design and development community’s voice to a growing dialogue about the intersection between historic sacred places and communities.<br>
 <br>
 ---
-### Housing and Health
+### Housing
 [Leonard Davis Institute & Housing Initiative at Penn (2019)](https://www.design.upenn.edu/pennpraxis/work/infill-philadelphia-sacred-places-civic-spaces-program-evaluation)
 <br><br>
 Created a spatial data analysis design and software suite for a research group examining the relationship between housing interventions and public health. Our work led to the publication of a paper, publicized in the [Wall Street Journal](https://www.wsj.com/articles/fighting-crime-with-home-renovations-11629986980) and [New York Times](https://www.nytimes.com/2021/10/08/opinion/gun-violence-biden-philadelphia.html), which shows a causal link between the disbursement of Philadelphia's Basic Systems Repair Program services (small home repair grants and case management) and a reduction in violent crime on blocks receiving interventions.<br>
