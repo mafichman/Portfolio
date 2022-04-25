@@ -164,6 +164,7 @@ I have taught several classes over the years at University of Pennsylvania's Wei
 - The Paper (China) (2020)<br>[Michael Fichman: The Global Nighttime Economy Needs A Recovery Plan](https://www.thepaper.cn/newsDetail_forward_9093106)
 - Crain's Detroit Business (2020)<br>[Detroit's Nightlife Coming Back At a Cautious Pace](https://www.crainsdetroit.com/entertainment/detroit-nightlife-coming-back-cautious-pace)
 - 880 Cities (2017)<br>[20 Emerging City Champions Chosen to Lead Innovative Urban Projects](https://www.880cities.org/20-emerging-city-champions-chosen-lead-innovative-urban-projects/)
+- Resident Advisor (2022)<br>[Can Climate Offsets Help Reduce Dance Music's Carbon Footprint?](https://ra.co/features/3993)
 - PennToday (2020)<br>[Safely reengaging with nightlife and supporting the creative economy](https://penntoday.upenn.edu/news/safely-reengaging-nightlife-and-supporting-creative-economy)
 - Population Health Week (2020)<br>[Podcast: Michael Fichman, MCP Researcher and Lecturer at UPenn](https://soundcloud.com/hcnradio/meet-michael-fichman)
 - Como (Spain) (2020)<br>[El sector del ocio nocturno lanza una app a nivel mundial para “acceder a los locales de forma segura”](https://www.diariocomo.es/el-sector-del-ocio-nocturno-lanza-una-app-a-nivel-mundial-para-acceder-a-los-locales-de-forma-segura/)
