@@ -143,7 +143,7 @@ Ongoing PennPraxis planning process to create a long-term strategy for growth fo
 <a name="teaching"></a>
 ## Teaching
 
-I have taught several classes over the years at University of Pennsylvania's Weitzman School of Design, including - <br><br>
+I have taught many classes over the years at University of Pennsylvania's Weitzman School of Design, where I was the Interim Director of the Master of Urban Spatial Analytics Graduate program in 2021 and 2022. Courses I have taught include - <br><br>
 
 - [MUSA 801 - Smart Cities Graduate Practicum](https://pennmusa.github.io/MUSA_801.io/)<br>
 - CPLN 675 - Land Use and Environmental Modeling<br>
@@ -156,6 +156,7 @@ I have taught several classes over the years at University of Pennsylvania's Wei
 <a name="press"></a>
 ## Press
 
+- Philadelphia Inquirer (2022) <br>[Four ways to promote Philly’s nightlife as a possible antidote to nuisance and violence (Op-Ed)](https://www.inquirer.com/opinion/commentary/philadelphia-nightlife-arts-culture-public-safety-20220711.html)
 - Bloomberg City Lab (2020) <br>[The Nightlife Rescue Plan That Could Save Your City’s Scene](https://www.bloomberg.com/news/articles/2020-08-04/can-urban-nightlife-districts-survive-a-pandemic)
 - The New York Times (2018) <br>[New York Today: The Nightlife Mayor’s Citywide Tour](https://www.nytimes.com/2018/10/01/nyregion/new-york-today-the-nightlife-mayors-citywide-tour.html)
 - Bloomberg City Lab (2018)<br>[What Small, Diverse Music Venues Mean to New York City](https://www.bloomberg.com/news/articles/2018-10-18/what-can-new-york-do-to-help-small-music-venues)
@@ -171,6 +172,7 @@ I have taught several classes over the years at University of Pennsylvania's Wei
 - Reeperbahn Festival Pop-and-Politics Workshop (2021) <br> [Video: The Future of Nightlife: Liberty, data, and technology.](https://www.youtube.com/watch?v=b7F_yYUhmyA)
 - Amplify Music Conference (2021)<br>[Video: Session 27 - Rethinking Nightlife](https://www.youtube.com/watch?v=T_qq97Lnpa4&t=478s)
 - Institute of Licensing (UK) R&R Conference (2021)<br>[Video: Action Planning for Global Nighttime Recovery](https://www.youtube.com/watch?v=JQJrS2GoLto)
+- 24HourNation (2022)<br>[24 Minutes with Michael Fichman (Podcast)](https://24hournation.com/conversations/001-003/)
 
 
 ---
@@ -187,6 +189,8 @@ I have taught several classes over the years at University of Pennsylvania's Wei
 ---
 <a name="publications"></a>
 ## Publications
+
+VibeLab. (2020). [The Creative Footprint Project - Stockholm.](https://www.creative-footprint.org/stockholm/)
 
 Vibe Lab. (2020 - 2021) [Global Nighttime Recovery Plan, Chapters 1-7](https://www.nighttime.org/recoveryplan/). (White Paper Series)<br>
 *I am lead editor of Chapters 3, 4 and lead author of Chapter 7*
