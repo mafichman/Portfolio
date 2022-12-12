@@ -148,7 +148,7 @@ I have taught many classes over the years at University of Pennsylvania's Weitzm
 - [MUSA 801 - Smart Cities Graduate Practicum](https://pennmusa.github.io/MUSA_801.io/)<br>
 - CPLN 675 - Land Use and Environmental Modeling<br>
 - MUSA 508 - Public Policy Analytics<br>
-- CPLN 501 Lab - Quantitative Planning Analysis Methods<br>
+- CPLN 501 Lab - Quantitative Planning Analysis Methods Lab<br>
 - MUSA 795 - Spatial Analysis Summer "Bootcamp" Mini<br>
 - [PennPraxis Design Fellows Program](https://www.design.upenn.edu/pennpraxis/design-fellows)<br>
 
@@ -157,10 +157,12 @@ I have taught many classes over the years at University of Pennsylvania's Weitzm
 ## Press
 
 - Philadelphia Inquirer (2022) <br>[Four ways to promote Philly’s nightlife as a possible antidote to nuisance and violence (Op-Ed)](https://www.inquirer.com/opinion/commentary/philadelphia-nightlife-arts-culture-public-safety-20220711.html)
+- Pennsylvania Gazette (2022)<br>[Night Fever (Profile)](https://nextcity.org/urbanist-news/new-model-could-help-cities-predict-gentrification-neighborhoods)
 - Bloomberg City Lab (2020) <br>[The Nightlife Rescue Plan That Could Save Your City’s Scene](https://www.bloomberg.com/news/articles/2020-08-04/can-urban-nightlife-districts-survive-a-pandemic)
 - The New York Times (2018) <br>[New York Today: The Nightlife Mayor’s Citywide Tour](https://www.nytimes.com/2018/10/01/nyregion/new-york-today-the-nightlife-mayors-citywide-tour.html)
 - Bloomberg City Lab (2018)<br>[What Small, Diverse Music Venues Mean to New York City](https://www.bloomberg.com/news/articles/2018-10-18/what-can-new-york-do-to-help-small-music-venues)
 - Philadelphia Inquirer (2020)<br>[Op-Ed: Philadelphia Should Become a 24-Hour City to Survive the Pandemic](https://www.inquirer.com/opinion/commentary/philadelphia-coronavirus-business-closures-night-hours-20200514.html)
+- PennToday (2021)<br>[A New Metric for Designing Safer Streets](https://penntoday.upenn.edu/news/new-metric-designing-safer-streets)
 - PennToday (2021)<br>[Reviving Philadelphia's Nighttime Economy](https://www.design.upenn.edu/news/post/reviving-philadelphias-nighttime-economy)
 - The Paper (China) (2020)<br>[Michael Fichman: The Global Nighttime Economy Needs A Recovery Plan](https://www.thepaper.cn/newsDetail_forward_9093106)
 - Crain's Detroit Business (2020)<br>[Detroit's Nightlife Coming Back At a Cautious Pace](https://www.crainsdetroit.com/entertainment/detroit-nightlife-coming-back-cautious-pace)
@@ -173,6 +175,7 @@ I have taught many classes over the years at University of Pennsylvania's Weitzm
 - Amplify Music Conference (2021)<br>[Video: Session 27 - Rethinking Nightlife](https://www.youtube.com/watch?v=T_qq97Lnpa4&t=478s)
 - Institute of Licensing (UK) R&R Conference (2021)<br>[Video: Action Planning for Global Nighttime Recovery](https://www.youtube.com/watch?v=JQJrS2GoLto)
 - 24HourNation (2022)<br>[24 Minutes with Michael Fichman (Podcast)](https://24hournation.com/conversations/001-003/)
+- NextCity (2017)<br>[New Model Could Help Cities Predict Gentrifying Neighborhoods](https://nextcity.org/urbanist-news/new-model-could-help-cities-predict-gentrification-neighborhoods)
 
 
 ---
@@ -190,7 +193,7 @@ I have taught many classes over the years at University of Pennsylvania's Weitzm
 <a name="publications"></a>
 ## Publications
 
-VibeLab. (2020). [The Creative Footprint Project - Stockholm.](https://www.creative-footprint.org/stockholm/)
+VibeLab. (2022). [The Creative Footprint Project - Stockholm.](https://www.creative-footprint.org/stockholm/)
 
 Vibe Lab. (2020 - 2021) [Global Nighttime Recovery Plan, Chapters 1-7](https://www.nighttime.org/recoveryplan/). (White Paper Series)<br>
 *I am lead editor of Chapters 3, 4 and lead author of Chapter 7*
