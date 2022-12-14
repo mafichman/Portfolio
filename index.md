@@ -1,4 +1,6 @@
-<i>Testing gh-pages</i>
+# <i>Testing gh-pages</i>
+---
+[Landing](index.md) | [Sample_page](sample_page.md) | [Readme](README.md)
 ---
 
 <i>Edit. I am etc etc etc</i>
