@@ -1,6 +1,6 @@
 <h1 style="color:green; font-size:2em">Home</h1>
 ---
-[Home](index.md) | [Sample_page](sample_page.md) | [Readme](README.md) | [Twitter]({{site.Twitter}})
+[Home](index.md) | [Sample_page](sample_page.md) | [Readme](README.md) | [Twitter]({{site.twitter}})
 
 ---
 # <i>Edit. I am etc etc .. Testing gh-pages</i>
