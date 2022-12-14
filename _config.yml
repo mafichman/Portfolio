@@ -3,5 +3,6 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <i><b>Data, coding, geography, applications </b></i>
   <br><br>
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
+twitter: "https://twitter.com/epanaforatech"
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
