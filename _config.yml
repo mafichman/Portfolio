@@ -3,7 +3,9 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <i><b>Data, coding, geography, applications </b></i>
   <br><br>
-theme: jekyll-athena
+theme: jekyll-theme-minimal
 show_downloads: true
+url: "https://epanafora.tech"
+github_username: ChristosGk
 twitter: "https://twitter.com/epanaforatech"
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
