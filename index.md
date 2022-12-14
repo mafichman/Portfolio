@@ -4,7 +4,6 @@
 
 ---
 # <i>Edit. I am etc etc .. Testing gh-pages</i>
-![Link](images/logo.png)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/watch?list=PL5P8TinruTgMH1AIL-GyzymdGCfG6pUQd&v=HYzaJvq9hm8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   
 ---
@@ -19,5 +18,9 @@
 - [ Link3 ](#link3)<br>
 - [ Link4 ](#link4)<br>
 - [ Contact ](#contact)<br>
+
+---
+
+![Link](images/logo.png)
 
 ---
