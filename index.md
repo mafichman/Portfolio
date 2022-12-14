@@ -4,6 +4,7 @@
 
 ---
 # <i>Edit. I am etc etc etc</i>
+![Link](images/logo.png)
 ---
 
 ## Practice Areas
