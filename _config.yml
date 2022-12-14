@@ -1,16 +1,7 @@
-title: Michael Fichman # your name (or website title) here
+title: Christos Giakoumis # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <i><b>Cities, Data, Arts, Music, Community </b></i>
+  <i><b>Data, coding, geography, applications </b></i>
   <br><br>
-  <i>Researcher & City Planning Consultant</i> <br>
-  PennPraxis<br>
-  <i>Lecturer</i><br>
-  University of Pennsylvania Weitzman School of Design<br>
-  <i>Acting Program Director</i><br>
-  UPenn Masters of Urban Spatial Analytics<br>
-  <i>Data Scientist</i> <br>
-  Center for Safe Mobility
-  <br>
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
