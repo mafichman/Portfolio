@@ -1,10 +1,12 @@
-# <i>Testing gh-pages</i>
+<h1 style="color:blue;font-size:5em"><i>Landing(Testing gh-pages)</i>
 ---
 [Landing](index.md) | [Sample_page](sample_page.md) | [Readme](README.md)
 
 ---
 # <i>Edit. I am etc etc etc</i>
 ![Link](images/logo.png)
+<video src="https://www.youtube.com/watch?list=PL5P8TinruTgMH1AIL-GyzymdGCfG6pUQd&v=HYzaJvq9hm8" controls>
+
 ---
 
 ## Practice Areas
