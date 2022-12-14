@@ -27,3 +27,5 @@
 ![Link](images/logo.png)
 
 ---
+
+{% include footer.html %}
