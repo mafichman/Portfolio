@@ -4,5 +4,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <i><b>Data, coding, geography, applications </b></i>
   <br><br>
 theme: jekyll-theme-minimal
+show_downloads: true
 twitter: "https://twitter.com/epanaforatech"
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
