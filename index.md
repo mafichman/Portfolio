@@ -1,4 +1,4 @@
-<h1 style="color:blue;font-size:5em"><i>Landing(Testing gh-pages)</i></h1>
+<h1 style="color:blue; font-size:5em">Landing(Testing gh-pages)</h1>
 ---
 [Landing](index.md) | [Sample_page](sample_page.md) | [Readme](README.md)
 
