@@ -1,12 +1,12 @@
-<h1 style="color:blue; font-size:5em">Landing(Testing gh-pages)</h1>
+<h1 style="color:green; font-size:2em">Home</h1>
 ---
-[Landing](index.md) | [Sample_page](sample_page.md) | [Readme](README.md)
+[Home](index.md) | [Sample_page](sample_page.md) | [Readme](README.md)
 
 ---
-# <i>Edit. I am etc etc etc</i>
+# <i>Edit. I am etc etc etc ... Testing gh-pages</i>
 ![Link](images/logo.png)
-<video src="https://www.youtube.com/watch?list=PL5P8TinruTgMH1AIL-GyzymdGCfG6pUQd&v=HYzaJvq9hm8" controls>
-
+<iframe width="560" height="315" src="https://www.youtube.com/watch?list=PL5P8TinruTgMH1AIL-GyzymdGCfG6pUQd&v=HYzaJvq9hm8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  
 ---
 
 ## Practice Areas
