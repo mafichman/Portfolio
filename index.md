@@ -33,7 +33,7 @@ Partners on this project include Vibe Lab, PennPraxis, Fraunhofer Institute and 
 <br>
 ---
 <br><br>
-[Creative Footprint - NYC / Tokyo / Berlin / Stockholm](https://www.creative-footprint.org/)
+[Creative Footprint - NYC / Tokyo / Berlin / Stockholm / Montreal / Sydney](https://www.creative-footprint.org/)
 <br>
 <br>Client - Vibe Lab
 <br>
