@@ -20,6 +20,16 @@
 ---
 <a name="nighttime"></a>
 ## Nighttime Arts and Culture - Planning and Advocacy 
+[Nashville  Independent Venues Study](https://www.nighttime.org/nashville-independent-venues-study/)
+<br>
+I'm the lead researcher and consultant for client Metro Nashville and Davidson County. This project’s core purpose is to better understand the ecosystem of independent music venues (IMVs). In the process, the project will detail the threats Independent music venues face, seek to understand the needs and aspirations of the region’s creative community, and propose policy approaches for preserving and growing Independent Music venues as well as the businesses, neighbourhoods, and districts around them.
+<br><br>
+The project is currently underway and is due to be delivered in early 2024.
+<br><br>
+<img src="images/nashville.png?raw=true"/>
+<br>
+<br>
+---
 [Global Nighttime Recovery Plan](http://nighttime.org/recoveryplan)
 <br>
 "The Nightlife Rescue Plan That Could Save Your City’s Scene" - City Lab<br>
@@ -102,6 +112,12 @@ PennPraxis developed software for documenting site usage and mapping spatial dat
 <br>
 ---
 ### Transportation
+[University of Pennsylvania Commuter Survey (2023)](https://www.design.upenn.edu/work/penn-campus-wide-commuter-survey)
+<br><br>
+Co-PI of a commuter behavior survey for the University of Pennsylvania Facilities and Real Estate Services, Business Services and Human Resources. This survey will help FRES understand how people got to work and travel long-distance for work. With these new, up-to-date data, FRES and other University divisions can create more robust programs to encourage sustainable community choices, including taking transit, walking, carpooling, and biking, and more sustainable choices for long-distance travel as well. This project made use of custom API route-generation software we developed to make cost and distance-driven commuter choice models with thousands of subjects. (Image courtesy Penn FRES)<br><br>
+<img src="images/penn_bus.jpg?raw=true"/><br>
+<br>
+---
 [An Evaluation of Pittsburgh's Dynamically Priced Curb Parking Pilot (2016)](https://www.researchgate.net/publication/309231344_An_Evaluation_of_Pittsburgh%27s_Dynamically-Priced_Curb_Parking_Pilot)
 <br><br>
 An econometric analysis of one of the first dynamic, demand-based curb parking programs in the US. Uses custom occupancy estimations algorithms to create elasticity estimations and estimates price effects using regression discontinuity quasi-experimental models.<br><br>
@@ -154,8 +170,12 @@ I have taught many classes over the years at University of Pennsylvania's Weitzm
 
 ---
 <a name="press"></a>
-## Press
+## Press - Quotes and Features
 
+- Resident Advisor (2023) <br>[Clubbing Is Becoming Big Business. What Does This Mean for Dance Music?](https://ra.co/features/4235)
+- Philadelphia Inquirer (2023) <br>[‘Less happy hour, more night life’ has some Philly businesses seeing an increase in late-night spending](https://www.inquirer.com/business/square-data-philadelphia-business-entertainment-20230929.html)
+- Philadelphia Magazine (2023) <br>[A Night in the Life of the Night Mayor]("https://www.phillymag.com/news/2023/02/18/night-mayor/")
+- The Pennsylvania Gazette (2022)<br>[Night Fever (Bio feature)](https://thepenngazette.com/night-fever/)
 - Philadelphia Inquirer (2022) <br>[Four ways to promote Philly’s nightlife as a possible antidote to nuisance and violence (Op-Ed)](https://www.inquirer.com/opinion/commentary/philadelphia-nightlife-arts-culture-public-safety-20220711.html)
 - Pennsylvania Gazette (2022)<br>[Night Fever (Profile)](https://nextcity.org/urbanist-news/new-model-could-help-cities-predict-gentrification-neighborhoods)
 - Bloomberg City Lab (2020) <br>[The Nightlife Rescue Plan That Could Save Your City’s Scene](https://www.bloomberg.com/news/articles/2020-08-04/can-urban-nightlife-districts-survive-a-pandemic)
@@ -182,16 +202,24 @@ I have taught many classes over the years at University of Pennsylvania's Weitzm
 <a name="awards"></a>
 ## Awards, Honors, Organizational Memberships
 
+- Recipient - City of Philadelphia Creative Economy Citizens Award (2023)
 - Member, Philadelphia City Council Arts and Culture Task Force (2020-Present)
 - 880 Cities Emerging City Champions Fellow (2017)
 - Knight Cities Challenge Finalist (2017)
 - International Nightlife Association Golden Moon Award (with GNRP team) (2020)
 - Member, American Planning Association
 - Member, Society for American Baseball Research
+- Member, NightCap Alliance
 
 ---
 <a name="publications"></a>
 ## Publications
+
+PennPraxis. (2023) University of Pennyslvania Commuter Survey.
+
+VibeLab. (2023). [The Creative Footprint Project - Sydney.](https://www.creative-footprint.org/sydney/)
+
+VibeLab. (2023). [The Creative Footprint Project - Montreal.](https://www.creative-footprint.org/montreal/)
 
 VibeLab. (2022). [The Creative Footprint Project - Stockholm.](https://www.creative-footprint.org/stockholm/)
 
